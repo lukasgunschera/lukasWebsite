@@ -51,6 +51,21 @@ experience:
         * Deception detection heuristics
         * Classification performance in the concealed information test
 
+  - title: Research Intern
+    company: University of Oxford
+    company_url: 'https://www.ox.ac.uk'
+    company_logo: ''
+    location: Oxford
+    date_start: '2019-11-01'
+    date_end: '2019-12-15'
+    description: |2-
+        Habit Lab:
+        * Development of habit over time 
+
+        Lie Lab:
+        * Deception detection heuristics
+        * Classification performance in the concealed information test
+
 design:
-  columns: '2'
+  columns: '3'
 ---
