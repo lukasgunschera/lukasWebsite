@@ -81,4 +81,4 @@ highlight_name: true
 
 I am a graduate student at the University of Amsterdam and pursuing a major in Clinical Psychology with a minor in Methodology and Statistics. Alongside my masters I work as a research and teaching assistant at the University of Amsterdam and Oxford. Current projects examine cognitive correlates of psychopathic personality traits.
 
-{{% staticref "uploads/resume.pdf" %}}Download my CV{{% /staticref %}}
+{{< icon name="download" pack="fas" >}}Download my {{% staticref "uploads/resume.pdf" %}}resumé{{% /staticref %}}
