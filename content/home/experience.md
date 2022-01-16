@@ -59,13 +59,10 @@ experience:
     date_start: '2019-11-01'
     date_end: '2019-12-15'
     description: |2-
-        Habit Lab:
-        * Development of habit over time 
-
-        Lie Lab:
-        * Deception detection heuristics
-        * Classification performance in the concealed information test
+        * Psychopathy
+        * Attention bottleneck
+        * Information Processing
 
 design:
-  columns: '3'
+  columns: '4'
 ---
