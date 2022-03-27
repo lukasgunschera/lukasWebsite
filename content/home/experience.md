@@ -32,7 +32,19 @@ experience:
     description: |2-
         - Cognitive correlates of psychopathic personality traits
         - Associative learning deficits implicated in psychopathy
-   
+
+experience:
+  - title: Teaching Assistant
+    company: University of Amsterdam
+    company_url: 'https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-social-and-behavioural-sciences/disciplines/psychology/psychology.html?cb'
+    company_logo: ''
+    location: ''
+    date_start: '2022-02-01'
+    date_end: ''
+    description: |2-
+    - Meta-Analysis
+    - Addiction and Compulsive Disorders
+
   - title: Research Assistant
     company: University of Amsterdam
     company_url: 'http://www.habitlab.nl'
@@ -67,5 +79,5 @@ experience:
         - Attentional bottleneck model of psychopathy
 
 design:
-  columns: '4'
+  columns: '5'
 ---
