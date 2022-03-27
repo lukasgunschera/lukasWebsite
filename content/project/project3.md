@@ -1,11 +1,11 @@
 ---
 title: Socio-economic decision-making and psychopathy
-summary: Systematic review of the litearture on socio-economic decison-making and psychopathic traits.
+summary: This meta-analytic review summarises the literature on socio-economic decision-making and psychopathic traits, elucidating the decision-making processes of psychopathic individuals.
 tags:
 - Psychopathy
 - Decision-making
 - Social behaviour
-date: "2022-01-16T00:00:00Z"
+date: "2020-10-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://osf.io/4hrk3/"

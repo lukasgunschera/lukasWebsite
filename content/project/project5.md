@@ -1,6 +1,6 @@
 ---
 title: Online webcam-based eye-tracking
-summary: An investigation of the suitability of online webcam-based eye-tracking for empirical research and applied contexts.
+summary: An investigation of the suitability of online webcam-based eye-tracking for empirical research and applied contexts. The present project assesses online webcam-based eye-tracking across a range of experimental paradigms.
 tags:
 - Other
 - Eye-tracking

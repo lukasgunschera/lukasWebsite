@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: University of Oxford
     company_url: 'https://www.ox.ac.uk'
-    company_logo: ''
+    company_logo: 'oxf'
     location: Oxford
     date_start: '2021-11-15'
     date_end: ''
@@ -36,6 +36,7 @@ experience:
   - title: Teaching Assistant
     company: University of Amsterdam
     date_start: '2022-02-01'
+    company_logo: 'uva'
     description: |2-
       - Meta-Analysis
       - Addiction and Compulsive Disorders
@@ -43,7 +44,7 @@ experience:
   - title: Research Assistant
     company: University of Amsterdam
     company_url: 'http://www.habitlab.nl'
-    company_logo: ''
+    company_logo: 'uva'
     location: Habit Lab
     date_start: '2021-07-01'
     date_end: ''
@@ -54,7 +55,7 @@ experience:
   - title: Research Assistant
     company: University of Amsterdam
     company_url: 'https://www.researchgate.net/lab/LieLab-Bruno-Verschuere'
-    company_logo: ''
+    company_logo: 'uva'
     location: Lie Lab
     date_start: '2021-07-01'
     date_end: ''
@@ -65,7 +66,7 @@ experience:
   - title: Research Intern
     company: University of Oxford
     company_url: 'https://www.psy.ox.ac.uk/research/ocean'
-    company_logo: ''
+    company_logo: 'oxf'
     location: Ocean Lab
     date_start: '2019-11-01'
     date_end: '2019-12-15'
