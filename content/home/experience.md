@@ -58,7 +58,7 @@ experience:
     company_logo: 'uva'
     location: Lie Lab
     date_start: '2021-07-01'
-    date_end: ''
+    date_end: '2021-12-31'
     description: |2-
         - Detection of deception by means of heuristic cues
         - Classification performance in the concealed information test
