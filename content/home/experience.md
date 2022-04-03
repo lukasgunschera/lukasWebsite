@@ -71,7 +71,7 @@ experience:
     date_start: '2019-11-01'
     date_end: '2019-12-15'
     description: |2-
-        - Information processing and psychopathic traits
+        - Impaired Integration and psychopathic traits
         - Attentional bottleneck model of psychopathy
 
 design:
