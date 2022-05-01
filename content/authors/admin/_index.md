@@ -23,7 +23,7 @@ interests:
 - Open, reproducible, and transparent research
 - Criminal behavior and violence
 - Associative learning processes
-- Eyewitess testimonies
+- Eyewitness testimonies
 - Psychopathy 
 
 # Education to show in About widget
