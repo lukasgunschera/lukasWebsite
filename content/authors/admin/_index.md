@@ -16,7 +16,7 @@ organizations:
   url: https://www.ox.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a graduate student at the University of Amsterdam and pursuing a major in Clinical Psychology with a minor in Methodology and Statistics. Alongside my masters I work as a research and teaching assistant at the University of Amsterdam and Oxford. Current projects examine cognitive correlates of psychopathic personality traits.
+bio: I am a graduate student at the University of Amsterdam and pursuing a major in Clinical Psychology with a minor in Methodology and Statistics. Alongside my masters I work as a research and teaching assistant at the University of Amsterdam and the University of Oxford. Current projects examine cognitive correlates of psychopathic personality traits.
 
 # Interests to show in About widget
 interests:
@@ -78,6 +78,6 @@ email: "l.gunschera@outlook.com"
 highlight_name: true
 ---
 
-I am a graduate student at the University of Amsterdam and pursuing a major in Clinical Psychology with a minor in Methodology and Statistics. Alongside my masters I work as a research and teaching assistant at the University of Amsterdam and Oxford. Current projects examine cognitive correlates of psychopathic personality traits.
+I am a graduate student at the University of Amsterdam and pursuing a major in Clinical Psychology with a minor in Methodology and Statistics. Alongside my masters I work as a research and teaching assistant at the University of Amsterdam and the University of Oxford. Current projects examine cognitive correlates of psychopathic personality traits.
 
 {{< icon name="download" pack="fas" >}}Download my {{% staticref "uploads/resume.pdf" %}}resumé{{% /staticref %}}
