@@ -40,6 +40,7 @@ experience:
     description: |2-
       - Meta-Analysis
       - Addiction and Compulsive Disorders
+      - Scientific Writing and Presenting
 
   - title: Research Assistant
     company: University of Amsterdam
