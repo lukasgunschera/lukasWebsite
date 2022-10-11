@@ -45,6 +45,7 @@ experience:
 
   - title: Teaching Assistant
     company: University of Amsterdam
+    company_url: 'https://www.uva.nl/en'
     date_start: '2022-02-01'
     date_end: '2022-10-31'
     company_logo: 'uva'
