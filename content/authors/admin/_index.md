@@ -10,21 +10,21 @@ role: Researcher, Psychologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Amsterdam
-  url: https://www.uva.nl/
-- name: University of Oxford
-  url: https://www.ox.ac.uk
+- name: University of Cambridge
+  url: https://www.cam.ac.uk/
+- name: MRC Cognition and Brain Sciences Unit
+  url: https://www.mrc-cbu.cam.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a graduate student at the University of Amsterdam and pursuing a major in Clinical Psychology with a minor in Methodology and Statistics. Alongside my masters I work as a research and teaching assistant at the University of Amsterdam and the University of Oxford. Current projects examine cognitive correlates of psychopathic personality traits.
+bio: I am a graduate research assistant at the University of Cambridge. Following my graduate education in psychological research with a major in clinical psychology and a minor in methodology and statistics, my primary research interests surround human learning and habitual behaviour. Current projects examine formal computational modelling approaches to social media use, the role of automatic behaviour in social media use, and cognitive correlates of psychopathic personality traits. 
 
 # Interests to show in About widget
 interests:
 - Open, reproducible, and transparent research
-- Criminal behavior and violence
+- Social media and habit formation
+- Criminal behavior and psychopathy
 - Associative learning processes
-- Eyewitness testimonies
-- Psychopathy 
+- Computational psychiatry
 
 # Education to show in About widget
 education:
@@ -78,6 +78,6 @@ email: "l.gunschera@outlook.com"
 highlight_name: true
 ---
 
-I am a graduate student at the University of Amsterdam and pursuing a major in Clinical Psychology with a minor in Methodology and Statistics. Alongside my masters I work as a research and teaching assistant at the University of Amsterdam and the University of Oxford. Current projects examine cognitive correlates of psychopathic personality traits.
+I am a graduate research assistant at the University of Cambridge. Following my graduate education in psychological research with a major in clinical psychology and a minor in methodology and statistics, my primary research interests surround human learning and habitual behaviour. Current projects examine formal computational modelling approaches to social media use, the role of automatic behaviour in social media use, and cognitive correlates of psychopathic personality traits. 
 
 {{< icon name="download" pack="fas" >}}Download my {{% staticref "uploads/resume.pdf" %}}resumé{{% /staticref %}}

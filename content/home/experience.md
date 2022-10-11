@@ -21,14 +21,24 @@ date_format: January 2, 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
+
 experience:
+
+  - title: Graduate Research Assistant
+    company: University of Cambridge
+    company_url: 'https://www.mrc-cbu.cam.ac.uk/'
+    company_logo: 'cam'
+    location: Cambridge
+    date_start: '2022-10-01'
+
   - title: Research Assistant
     company: University of Oxford
     company_url: 'https://www.ox.ac.uk'
     company_logo: 'oxf'
     location: Oxford
     date_start: '2021-11-15'
-    date_end: ''
+    date_end: '2022-10-31'
     description: |2-
         - Cognitive correlates of psychopathic personality traits
         - Associative learning deficits implicated in psychopathy
@@ -36,6 +46,7 @@ experience:
   - title: Teaching Assistant
     company: University of Amsterdam
     date_start: '2022-02-01'
+    date_end: '2022-10-31'
     company_logo: 'uva'
     description: |2-
       - Meta-Analysis
@@ -48,7 +59,7 @@ experience:
     company_logo: 'uva'
     location: Habit Lab
     date_start: '2021-07-01'
-    date_end: ''
+    date_end: '2022-10-31'
     description: |2-
         - Psychological processes underlying the formation of habits
         - Long-term development of habits
@@ -76,5 +87,5 @@ experience:
         - Attentional bottleneck model of psychopathy
 
 design:
-  columns: '5'
+  columns: '6'
 ---
