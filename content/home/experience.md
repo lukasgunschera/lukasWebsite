@@ -25,7 +25,7 @@ date_format: January 2, 2006
 
 experience:
 
-  - title: Graduate Research Assistant
+  - title: Research Assistant
     company: University of Cambridge
     company_url: 'https://www.mrc-cbu.cam.ac.uk/'
     company_logo: 'cam'
