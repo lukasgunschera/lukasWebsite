@@ -1,5 +1,5 @@
 ---
-title: Developmental trajectory of habits
+title: Developmental trajectory of habits (under review)
 summary: Longitudinal research into the process of habit formation. This large-scale replication effort is conducted with our collaborators at the University of Amsterdam, Cambridge, Helsinki, and Konstanz.
 tags:
 - Other

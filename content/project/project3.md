@@ -1,5 +1,5 @@
 ---
-title: Social Economic Decision-Making and Psychopathy (in press)
+title: Social Economic Decision-Making and Psychopathy (in press, Neuroscience and Biobehavioral Reviews)
 summary: This meta-analytic review summarises the literature on socio-economic decision-making and psychopathic traits, elucidating the decision-making processes of psychopathic individuals.
 tags:
 - Psychopathy
