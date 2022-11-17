@@ -1,5 +1,5 @@
 ---
-title: No Impaired Integration in Psychopathy: Evidence from an Illusory Conjunction Paradigm (under review)
+title: No Impaired Integration in Psychopathy, Evidence from an Illusory Conjunction Paradigm (under review)
 summary: An investigation of the Impaired Integration theory of psychopathy and multidimensional stimuli processing of psychopathic individuals.
 tags:
 - Impaired Integration Theory
