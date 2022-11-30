@@ -30,7 +30,7 @@ content:
   - name: Psychopathy
     tag: Psychopathy
   - name: Digital Media
-    tag: Media
+    tag: Digital Media
   - name: Other
     tag: Other
 
