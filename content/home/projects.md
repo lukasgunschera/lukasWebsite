@@ -29,8 +29,6 @@ content:
     tag: '*'
   - name: Psychopathy
     tag: Psychopathy
-  - name: Digital Media
-    tag: Digital Media
   - name: Other
     tag: Other
 
