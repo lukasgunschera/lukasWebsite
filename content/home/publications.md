@@ -10,8 +10,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Social economic decision-making and psychopathy
-subtitle: 'A systematic review and meta-analysis'
+title:
+subtitle:
 
 content:
   # Filter on criteria
