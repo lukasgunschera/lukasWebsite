@@ -8,9 +8,9 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 25
 
-title: Recent Publications
+title: Publications & Preprints
 subtitle: ''
 
 content:

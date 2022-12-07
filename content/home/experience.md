@@ -65,12 +65,12 @@ experience:
         - Psychological processes underlying the formation of habits
         - Long-term development of habits
 
-  - title: Research Assistant
+  - title: Research Assistant & Intern
     company: University of Amsterdam
     company_url: 'https://www.researchgate.net/lab/LieLab-Bruno-Verschuere'
     company_logo: 'uva'
     location: Lie Lab
-    date_start: '2021-07-01'
+    date_start: '2021-01-01'
     date_end: '2021-12-31'
     description: |2-
         - Detection of deception by means of heuristic cues
