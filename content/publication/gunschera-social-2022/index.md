@@ -16,7 +16,7 @@ tags:
 - Cooperation
 categories: []
 date: '2022-12-01'
-lastmod: 2022-12-07T18:06:25Z
+lastmod: 2022-12-07T18:32:36Z
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-12-07T18:06:24.913638Z'
+publishDate: '2022-12-07T18:32:36.718342Z'
 publication_types:
 - '2'
 abstract: Psychopathy is a personality construct that encompasses a constellation
