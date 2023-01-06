@@ -1,6 +1,6 @@
 ---
 title: Associative learning as a function of stimulus multidimensionality
-summary: This project investigates the superficial processing of complex stimuli and subsequent effects for the formation of stimulus-outcome associations of psychopathic individuals. This study is one of several assessing the response modulation hypothesis of psychopathy.
+summary: insert text
 tags:
 - Associative learning
 - Psychopathic deficits
