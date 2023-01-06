@@ -10,9 +10,6 @@ main:
   - name: Google Scholar
     url: 'https://scholar.google.com/citations?hl=en&user=wRydfNQAAAAJ'
     weight: 20
-  - name: CV
-    url: 'static/uploads/resume.pdf'
-    weight: 30
   - name: Talks
     url: '#talks'
     weight: 40
@@ -25,6 +22,6 @@ main:
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/cv.pdf
-#    weight: 70
+  - name: CV
+    url: uploads/cv.pdf
+    weight: 70
