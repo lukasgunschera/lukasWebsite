@@ -49,7 +49,7 @@ item:
   url: ""
 - certificate_url: 
   date_end: ""
-  date_start: "2018-09-01"
+  date_start: "2018-10-01"
   description: ""
   organization: Radboud University
   organization_url: https://www.ru.nl/en
