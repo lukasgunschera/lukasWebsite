@@ -16,15 +16,15 @@ organizations:
   url: https://www.mrc-cbu.cam.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a graduate research assistant at the University of Cambridge. Following my graduate education in psychological research with a major in clinical psychology and a minor in methodology and statistics, my primary research interests surround human learning and habitual behaviour. Current projects examine formal computational modelling approaches to social media use, the role of automatic behaviour in social media use, and cognitive correlates of psychopathic personality traits. 
+bio: I am a graduate research assistant at the University of Cambridge. Following my graduate education in psychological research with a major in clinical psychology and a minor in methodology and statistics, my primary research interest surround human learning and digital mental health. Current projects examine formal computational neuroscience approaches to social media use, the role of automatic behaviour in social media use, and cognitive correlates of psychopathic personality traits. 
 
 # Interests to show in About widget
 interests:
 - Open, reproducible, and transparent research
-- Social media and habit formation
-- Criminal behavior and psychopathy
-- Associative learning processes
+- Digital mental health
+- Human learning
 - Computational psychiatry
+- Criminal behavior and psychopathy
 
 # Education to show in About widget
 education:
@@ -79,5 +79,3 @@ highlight_name: true
 ---
 
 I am a graduate research assistant at the University of Cambridge. Following my graduate education in psychological research with a major in clinical psychology and a minor in methodology and statistics, my primary research interests surround human learning and habitual behaviour. Current projects examine formal computational modelling approaches to social media use, the role of automatic behaviour in social media use, and cognitive correlates of psychopathic personality traits. 
-
-{{< icon name="download" pack="fas" >}}Download my {{% staticref "uploads/resume.pdf" %}}resumé{{% /staticref %}}
