@@ -19,7 +19,7 @@ tags:
 - Attention
 - Illusory conjunction
 categories: []
-date: '2022-09-01'
+date: '2023-02-01'
 lastmod: 2022-12-07T18:37:52Z
 featured: false
 draft: false
@@ -40,7 +40,7 @@ image:
 projects: []
 publishDate: '2022-12-07T18:37:52.452167Z'
 publication_types:
-- '3'
+- '2'
 abstract: Progress in psychopathy research has been hampered by ongoing contention
   about its fundamental cause. The Impaired Integration theory of psychopathy provides
   an attention-based account of information integration abnormalities. We set out
@@ -55,6 +55,6 @@ abstract: Progress in psychopathy research has been hampered by ongoing contenti
   theory and pave the way for future research to advance our understanding of psychopathic
   trait aetiology by assessing specific and falsifiable mechanisms thought to bring
   about the observed cognitive and behavioural deficits.
-publication: 'Under Review, Preprint'
+publication: 'Personality Disorders: Theory, Research, and Treatment'
 doi: 10.31234/osf.io/k2hj9
 ---
