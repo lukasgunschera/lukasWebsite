@@ -56,5 +56,5 @@ abstract: Progress in psychopathy research has been hampered by ongoing contenti
   trait aetiology by assessing specific and falsifiable mechanisms thought to bring
   about the observed cognitive and behavioural deficits.
 publication: 'Personality Disorders: Theory, Research, and Treatment'
-doi: 10.31234/osf.io/k2hj9
+doi: https://doi.org/10.1037/per0000619
 ---
