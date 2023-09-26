@@ -6,7 +6,7 @@ title: Lukas J. Gunschera
 superuser: true
 
 # Role/position/tagline
-role: Researcher, Psychologist
+role: PhD Student, Psychologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -16,15 +16,14 @@ organizations:
   url: https://www.mrc-cbu.cam.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a graduate research assistant at the University of Cambridge. Following my graduate education in psychological research with a major in clinical psychology and a minor in methodology and statistics, my primary research interest surround human learning and digital mental health. Current projects examine formal computational neuroscience approaches to social media use, the role of automatic behaviour in social media use, and cognitive correlates of psychopathic personality traits. 
+bio: I am a PhD Student at the MRC Cognition and Brain Sciences Unit at the University of Cambridge. I am particularly interested in the potential cognitive and social mechanisms that underlie human learning. My current research examines risk and protective factors of social media use utilising approaches from the field of computational psychiatry. I have a background in methodology and statistics and focus on conducting open and reproducible research. 
 
 # Interests to show in About widget
 interests:
 - Open, reproducible, and transparent research
 - Digital mental health
-- Human learning
+- Belief updating processes
 - Computational psychiatry
-- Criminal behavior and psychopathy
 
 # Education to show in About widget
 education:
@@ -61,7 +60,7 @@ social:
   link: https://orcid.org/my-orcid?orcid=0000-0002-8241-0833
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/lukasgunschera
+  link: https://bsky.app/profile/lukasgunschera.com
 
 
 # Link to a PDF of your resume/CV.
@@ -78,4 +77,5 @@ email: "l.gunschera@outlook.com"
 highlight_name: true
 ---
 
-I am a graduate research assistant at the University of Cambridge. Following my graduate education in psychological research with a major in clinical psychology and a minor in methodology and statistics, my primary research interests surround human learning and habitual behaviour. Current projects examine formal computational modelling approaches to social media use, the role of automatic behaviour in social media use, and cognitive correlates of psychopathic personality traits. 
+I am a PhD Student at the MRC Cognition and Brain Sciences Unit at the University of Cambridge. I am particularly interested in the potential cognitive and social mechanisms that underlie human learning. My current research examines risk and protective factors of social media use utilising approaches from the field of computational psychiatry. I have a background in methodology and statistics and focus on conducting open and reproducible research. 
+
