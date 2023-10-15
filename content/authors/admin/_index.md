@@ -26,14 +26,18 @@ interests:
 - Computational psychiatry
 
 # Education to show in About widget
+
 education:
   courses:
+  - course: PhD in Medical Science
+    institution: University of Cambridge
+    year: 2023-2027
   - course: MSc in Psychological Research
     institution: University of Amsterdam
-    year: 2022
+    year: 2020-2022
   - course: Honours BSc in Psychology
     institution: Radboud University
-    year: 2020
+    year: 2017-2020
   - course: Erasmus Semester
     institution: University of Leeds
     year: 2019
