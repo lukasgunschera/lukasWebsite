@@ -26,14 +26,14 @@ date_format: January 2, 2006
 experience:
 
   - title: PhD Student
-    company: University of Cambridge
+    company: University of Cambridge, MRC Cognition and Brain Sciences Unit
     company_url: 'https://www.mrc-cbu.cam.ac.uk/'
     company_logo: 'cam'
     location: Cambridge
     date_start: '2023-10-01'
 
   - title: Research Assistant
-    company: University of Cambridge
+    company: University of Cambridge, MRC Cognition and Brain Sciences Unit
     company_url: 'https://www.mrc-cbu.cam.ac.uk/'
     company_logo: 'cam'
     location: Cambridge
