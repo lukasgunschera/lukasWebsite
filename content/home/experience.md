@@ -26,7 +26,7 @@ date_format: January 2, 2006
 experience:
 
   - title: PhD Student
-    company: University of Cambridge
+    company: University of Cambridge, MRC Cognition and Brain Sciences Unit
     company_url: 'https://www.mrc-cbu.cam.ac.uk/'
     company_logo: 'cam'
     location: Cambridge
