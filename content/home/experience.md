@@ -105,7 +105,7 @@ experience:
     company: Radboud University
     company_url: 'https://www.ru.nl/en'
     company_logo: 'rad'
-    location: Ocean Lab
+    location: SAMBA Group
     date_start: '2018-10-01'
     date_end: '2019-12-31'
     description: |2-
