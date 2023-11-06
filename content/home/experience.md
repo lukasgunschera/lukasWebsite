@@ -106,10 +106,11 @@ experience:
     company_url: 'https://www.ru.nl/en'
     company_logo: 'rad'
     location: Ocean Lab
-    date_start: '2019-11-01'
-    date_end: '2019-12-15'
+    date_start: '2018-10-01'
+    date_end: '2019-12-31'
     description: |2-
-        - Impaired Integration and psychopathic traits
+        - Moral decision-making of psychopathic individuals
+        - Computational modelling of decision-making
 
 design:
   columns: '8'
