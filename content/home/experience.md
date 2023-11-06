@@ -25,12 +25,20 @@ date_format: January 2, 2006
 
 experience:
 
+  - title: PhD Student
+    company: University of Cambridge
+    company_url: 'https://www.mrc-cbu.cam.ac.uk/'
+    company_logo: 'cam'
+    location: Cambridge
+    date_start: '2023-10-01'
+
   - title: Research Assistant
     company: University of Cambridge
     company_url: 'https://www.mrc-cbu.cam.ac.uk/'
     company_logo: 'cam'
     location: Cambridge
     date_start: '2022-10-01'
+    date_end: '2023-09-30'
 
   - title: Research Assistant
     company: University of Oxford
@@ -88,5 +96,5 @@ experience:
         - Attentional bottleneck model of psychopathy
 
 design:
-  columns: '6'
+  columns: '7'
 ---
