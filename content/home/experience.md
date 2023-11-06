@@ -31,6 +31,9 @@ experience:
     company_logo: 'cam'
     location: Cambridge
     date_start: '2023-10-01'
+    description: |2-
+        - Mechanisms linking social media and mental health
+        - Computational psychiatry
 
   - title: Research Assistant
     company: University of Cambridge, MRC Cognition and Brain Sciences Unit
@@ -39,6 +42,9 @@ experience:
     location: Cambridge
     date_start: '2022-10-01'
     date_end: '2023-09-30'
+    description: |2-
+        - Social media and mental health
+        - Reinforcement learning on social media
 
   - title: Research Assistant
     company: University of Oxford
@@ -95,6 +101,16 @@ experience:
         - Impaired Integration and psychopathic traits
         - Attentional bottleneck model of psychopathy
 
+  - title: Research Intern
+    company: Radboud University
+    company_url: 'https://www.ru.nl/en'
+    company_logo: 'rad'
+    location: Ocean Lab
+    date_start: '2019-11-01'
+    date_end: '2019-12-15'
+    description: |2-
+        - Impaired Integration and psychopathic traits
+
 design:
-  columns: '7'
+  columns: '8'
 ---
