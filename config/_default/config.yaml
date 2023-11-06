@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Lukas J. Gunschera # Website name
-baseurl: 'https://lukasgunschera.com/' # Website URL
+baseURL: 'https://lukasgunschera.com/' # Website URL
 copyright: 'Lukas J. Gunschera © 2022'
 
 ############################
