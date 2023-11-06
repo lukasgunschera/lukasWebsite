@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Lukas J. Gunschera # Website name
+title: Lukas Gunschera # Website name
 baseURL: 'https://lukasgunschera.com/' # Website URL
-copyright: 'Lukas J. Gunschera © 2023'
+
 
 ############################
 ## LANGUAGE
