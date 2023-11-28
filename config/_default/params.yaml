@@ -32,8 +32,8 @@ twitter: ''
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: Follow me on Twitter
-    link: 'https://twitter.com/Twitter'
+    name: Follow me on BlueSky
+    link: 'https://bsky.app/profile/lukasgunschera.bsky.social'
   - icon: linkedin
     icon_pack: fab
     name: Connect on LinkedIn
