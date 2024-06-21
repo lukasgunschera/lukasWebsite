@@ -28,6 +28,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Digital Media
+    tag: Digital Media
   - name: Psychopathy
     tag: Psychopathy
   - name: Other

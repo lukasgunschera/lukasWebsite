@@ -24,6 +24,30 @@ date_format: January 2, 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: 
+  date_end: "2027-01-09"
+  date_start: "2023-01-10"
+  description: ""
+  organization: UK Research and Innovation Medical Research Council
+  organization_url: https://www.ukri.org/councils/mrc/
+  title: UK Research and Innovation Medical Research Council Studentship
+  url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: "2024-01-05"
+  description: ""
+  organization: SPS-NIP
+  organization_url: https://www.wolfson.cam.ac.uk/
+  title: Travel Grant
+  url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: "2023-01-09"
+  description: ""
+  organization: American Psychological Association
+  organization_url: https://www.apa.org/news/editors-choice
+  title: Editor's Choice Award
+  url: ""
+- certificate_url: 
   date_end: ""
   date_start: "2023-01-06"
   description: ""

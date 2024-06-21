@@ -64,7 +64,7 @@ social:
   link: https://orcid.org/my-orcid?orcid=0000-0002-8241-0833
 - icon: twitter
   icon_pack: fab
-  link: https://bsky.app/profile/lukasgunschera.bsky.social
+  link: https://x.com/lukasgunschera
 
 
 # Link to a PDF of your resume/CV.
@@ -81,5 +81,4 @@ email: "l.gunschera@outlook.com"
 highlight_name: true
 ---
 
-I am a PhD Student at the MRC Cognition and Brain Sciences Unit at the University of Cambridge. I am particularly interested in the potential cognitive and social mechanisms that underlie human learning. My current research examines risk and protective factors of social media use utilising approaches from the field of computational psychiatry. I have a background in methodology and statistics and focus on conducting open and reproducible research. 
-
+I am a PhD Student at the MRC Cognition and Brain Sciences Unit at the University of Cambridge. I am particularly interested in the potential cognitive and social mechanisms that underlie human learning. My current research examines risk and protective factors of social media use utilising approaches from the field of computational psychiatry. I have a background in methodology and statistics and focus on conducting open and reproducible research.

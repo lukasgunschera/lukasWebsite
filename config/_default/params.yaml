@@ -7,16 +7,16 @@
 
 theme: Minimal
 day_night: true
-font: 'MrRobot'
+font: "MrRobot"
 font_size: m
 
 # SEO
 
 site_type: Person
-local_business_type: ''
-org_name: ''
-description: ''
-twitter: ''
+local_business_type: ""
+org_name: ""
+description: ""
+twitter: ""
 
 # Contact (edit or remove options as required)
 
@@ -32,12 +32,12 @@ twitter: ''
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: Follow me on BlueSky
-    link: 'https://bsky.app/profile/lukasgunschera.bsky.social'
+    name: Follow me on Twitter
+    link: "https://x.com/lukasgunschera"
   - icon: linkedin
     icon_pack: fab
     name: Connect on LinkedIn
-    link: 'https://www.linkedin.com/in/lukasgunschera/'
+    link: "https://www.linkedin.com/in/lukasgunschera/"
 
 # Site header
 
@@ -52,8 +52,8 @@ main_menu:
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+date_format: "Jan 2, 2006"
+time_format: "3:04 PM"
 address_format: en-us
 
 # Site features
@@ -65,8 +65,8 @@ math: false
 diagram: false
 privacy_pack: false
 edit_page:
-  repo_url: ''
-  content_dir: ''
+  repo_url: ""
+  content_dir: ""
   repo_branch: main
   editable:
     page: false
@@ -88,7 +88,7 @@ copyright_license:
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
-  notice: 'This work is licensed under {license}'
+  notice: "This work is licensed under {license}"
 abstract_length: 135
 plugins_js: []
 avatar:
@@ -105,7 +105,7 @@ breadcrumb:
   page_types:
     book: true
 comments:
-  provider: ''
+  provider: ""
   commentable:
     post: true
     book: true
@@ -113,27 +113,27 @@ comments:
     publication: true
     event: true
   disqus:
-    shortname: ''
+    shortname: ""
     show_count: true
   commento:
-    url: ''
+    url: ""
 search:
   provider: wowchemy
   algolia:
-    app_id: ''
-    api_key: ''
-    index_name: ''
+    app_id: ""
+    api_key: ""
+    index_name: ""
     show_logo: false
 map:
-  provider: ''
-  api_key: ''
+  provider: ""
+  api_key: ""
   zoom: 15
 marketing:
-  google_analytics: ''
-  google_tag_manager: ''
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
+  google_analytics: ""
+  google_tag_manager: ""
+  google_site_verification: ""
+  baidu_site_verification: ""
+  baidu_tongji: ""
 cms:
   branch: master
   local_backend: false
