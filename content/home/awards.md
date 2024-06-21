@@ -35,7 +35,7 @@ item:
   date_end: ""
   date_start: "2024-01-05"
   description: ""
-  organization: SPS-NIP
+  organization: Wolfson College, Cambridge
   organization_url: https://www.wolfson.cam.ac.uk/
   title: Travel Grant
   url: ""
