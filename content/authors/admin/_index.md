@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lukas J. Gunschera
+title: Lukas Gunschera
 
 # Is this the primary user of the site?
 superuser: true
