@@ -32,7 +32,7 @@ twitter: ""
 #  longitude: '4.9041'
 
 contact_links:
-  - icon: plug
+  - icon: cloud
     icon_pack: fab
     name: Follow me on BlueSky
     link: "https://bsky.app/profile/lukasgunschera.bsky.social"

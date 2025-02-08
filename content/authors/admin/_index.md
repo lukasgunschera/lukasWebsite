@@ -59,8 +59,8 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/my-orcid?orcid=0000-0002-8241-0833
-- icon: bluesky
-  icon_pack: custom
+- icon: cloud
+  icon_pack: fab
   link: https://bsky.app/profile/lukasgunschera.bsky.social
 
 
