@@ -10,6 +10,14 @@
   font-display: block;
 }
 
+.contact-links .icon-bluesky {
+  width: 24px;
+  height: 24px;
+  vertical-align: middle;
+  margin-right: 8px;
+  /* Adjust spacing as needed */
+}
+
 [class^="icon-"],
 [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
