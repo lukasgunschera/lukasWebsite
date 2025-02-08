@@ -27,8 +27,8 @@ content:
 
   # Add custom contact links
   links:
-    - icon_pack: custom
-      icon: bluesky
+    - icon_pack: fab
+      icon: plug
       name: Follow me on BlueSky
       link: "https://bsky.app/profile/lukasgunschera.bsky.social"
 
