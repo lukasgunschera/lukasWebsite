@@ -59,9 +59,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/my-orcid?orcid=0000-0002-8241-0833
-- icon: twitter
-  icon_pack: fab
-  link: https://x.com/lukasgunschera
+- icon: bluesky
+  icon_pack: custom
+  link: https://bsky.app/profile/lukasgunschera.bsky.social
 
 
 # Link to a PDF of your resume/CV.
