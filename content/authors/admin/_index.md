@@ -21,9 +21,9 @@ bio: I am a PhD Student at the MRC Cognition and Brain Sciences Unit at the Univ
 # Interests to show in About widget
 interests:
 - Open, reproducible, and transparent research
-- Digital mental health
-- Computational psychiatry
-- Cognitive processes 
+- Digital media 
+- Mental health
+- Cognitive neuroscience
 
 # Education to show in About widget
 
