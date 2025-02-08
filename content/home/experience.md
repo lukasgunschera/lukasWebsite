@@ -32,8 +32,9 @@ experience:
     location: Cambridge
     date_start: '2023-10-01'
     description: |2-
-        - Mechanisms linking social media and mental health
-        - Computational psychiatry
+        - Mechanisms linking social media use and mental health
+        - Social media and addiction
+        - Computational neuroscience
 
   - title: Research Assistant
     company: University of Cambridge, MRC Cognition and Brain Sciences Unit
@@ -43,8 +44,8 @@ experience:
     date_start: '2022-10-01'
     date_end: '2023-09-30'
     description: |2-
-        - Social media and mental health
-        - Reinforcement learning on social media
+        - Social media use and mental health
+        - Reinforcement learning and social media
 
   - title: Research Assistant
     company: University of Oxford
