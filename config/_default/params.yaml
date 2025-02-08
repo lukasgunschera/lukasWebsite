@@ -9,6 +9,8 @@ theme: Minimal
 day_night: true
 font: "MrRobot"
 font_size: m
+icon:
+  bluesky: "bluesky"  # add custom bluesky logo
 
 # SEO
 
@@ -22,16 +24,16 @@ twitter: ""
 
 #email: l.gunschera@outlook.com
 #address:
-#  city: Amsterdam
-#  country: Netherlands
-#  country_code: NL
+#  city: Cambridge
+#  country: United Kingdom
+#  country_code: UK
 #coordinates:
 #  latitude: '52.3676'
 #  longitude: '4.9041'
 
 contact_links:
   - icon: bluesky
-    icon_pack: fab
+    icon_pack: custom
     name: Follow me on BlueSky
     link: "https://bsky.app/profile/lukasgunschera.bsky.social"
   - icon: linkedin
