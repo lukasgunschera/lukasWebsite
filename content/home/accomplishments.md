@@ -23,6 +23,22 @@ date_format: January 2, 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: 
+  date_end: "2024-08-17"
+  date_start: "2024-08-04"
+  description: ""
+  organization: European Society for Cognitive Psychology
+  organization_url: https://www.escop.eu/ 
+  title: Computational social cognition (summer school)
+  url: 
+- certificate_url: 
+  date_end: "2024-07-17"
+  date_start: "2024-07-14"
+  description: ""
+  organization: University of Birmingham
+  organization_url: https://www.compsoccog.com/
+  title: Computational social cognition (summer school)
+  url: ""
 - certificate_url: https://www.coursera.org/account/accomplishments/certificate/T5SWB5V43C6N
   date_end: ""
   date_start: "2020-12-29"
