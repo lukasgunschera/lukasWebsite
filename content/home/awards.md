@@ -54,14 +54,6 @@ item:
   url: ""
 - certificate_url: 
   date_end: ""
-  date_start: "2024-01-05"
-  description: ""
-  organization: Wolfson College, Cambridge
-  organization_url: https://www.wolfson.cam.ac.uk/
-  title: Travel Grant
-  url: ""
-- certificate_url: 
-  date_end: ""
   date_start: "2023-01-09"
   description: ""
   organization: American Psychological Association
