@@ -29,7 +29,7 @@ item:
   description: ""
   organization: European Society for Cognitive Psychology
   organization_url: https://www.escop.eu/ 
-  title: Computational social cognition (summer school)
+  title: Computational and mathematical modeling of cognition (summer school)
   url: 
 - certificate_url: 
   date_end: "2024-07-17"
