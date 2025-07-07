@@ -1,6 +1,5 @@
 ---
 # An instance of the Accomplishments widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
 
 # This file represents a page section.
@@ -14,7 +13,6 @@ title: 'Certificates'
 subtitle:
 
 # Date format
-#   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: January 2, 2006
 
 # Accomplishments.

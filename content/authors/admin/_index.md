@@ -6,7 +6,7 @@ title: Lukas Gunschera
 superuser: true
 
 # Role/position/tagline
-role: PhD Student, Psychologist
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -16,7 +16,7 @@ organizations:
   url: https://www.mrc-cbu.cam.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD Student at the MRC Cognition and Brain Sciences Unit at the University of Cambridge. I am particularly interested in the potential cognitive and social mechanisms that underlie human learning. I utilise a combination of longitudinal and computational modeling to examine the cognitive processes involved in social media use and wellbeing. I have a background in methodology and statistics and focus on conducting open and reproducible research. 
+bio: I am a PhD student at the MRC Cognition and Brain Sciences Unit at the University of Cambridge. I am particularly interested in the cognitive and social mechanisms that underlie engagement and outcomes of social media use. My research uses a combination of longitudinal and computational approaches to examining the (cognitive) mechanisms implicated in social media use and mental health. I have a background in methodology and statistics and focus on conducting open and reproducible research. 
 
 # Interests to show in About widget
 interests:
@@ -24,6 +24,7 @@ interests:
 - Digital media 
 - Mental health
 - Cognitive neuroscience
+- Addiction
 
 # Education to show in About widget
 
@@ -35,7 +36,7 @@ education:
   - course: MSc in Psychological Research
     institution: University of Amsterdam
     year: 2020-2022
-  - course: Honours BSc in Psychology
+  - course: BSc in Psychology
     institution: Radboud University
     year: 2017-2020
 
@@ -65,17 +66,15 @@ social:
 
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+# Enter email to display Gravatar
 email: "l.gunschera@outlook.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a PhD Student at the MRC Cognition and Brain Sciences Unit at the University of Cambridge. I am particularly interested in the potential cognitive and social mechanisms that underlie human learning. I utilise a combination of longitudinal and computational modeling to examine the cognitive processes involved in social media use and wellbeing. I have a background in methodology and statistics and focus on conducting open and reproducible research. 
+I am a PhD student at the MRC Cognition and Brain Sciences Unit at the University of Cambridge. I am particularly interested in the cognitive and social mechanisms that underlie human learning. My research examines the (cognitive) processes that shape engagement and outcomes of social media use. I have a background in methodology and statistics and focus on conducting open and reproducible research.
