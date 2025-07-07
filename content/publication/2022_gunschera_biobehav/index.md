@@ -36,7 +36,7 @@ image:
 projects: []
 publishDate: '2022-12-07T18:32:36.718342Z'
 publication_types:
-- '2'
+- ''
 abstract: Psychopathy is a personality construct that encompasses a constellation
   of traits reflecting emotional dysfunction and antisocial behavior. This constellation
   has consistently been linked to poor decision-making, often focused on personal
