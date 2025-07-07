@@ -40,7 +40,7 @@ image:
 projects: []
 publishDate: '2022-12-07T18:37:52.452167Z'
 publication_types:
-- '2'
+- ''
 abstract: Progress in psychopathy research has been hampered by ongoing contention
   about its fundamental cause. The Impaired Integration theory of psychopathy provides
   an attention-based account of information integration abnormalities. We set out
