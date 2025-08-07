@@ -1,5 +1,5 @@
 User-agent: *
-Sitemap: https://isobelbeasley.com/sitemap.xml 
+Sitemap: https://lukasgunschera.com/sitemap.xml 
 Disallow: /author/
 Disallow: /blank_type/
 Disallow: /backup
