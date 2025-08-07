@@ -15,7 +15,7 @@ date_end: ""
 event: "Building on lessons from research on digital media and mental health"
 event_url: https://joint-research-centre.ec.europa.eu/seminar-series-virtual-worlds-and-well-being-setting-research-agenda/virtues-seminar-building-lessons-research-digital-media-and-mental-health-2025-03-05_en?prefLang=da
 
-featured: false
+featured: true
 image:
   caption:
   alt_text:
