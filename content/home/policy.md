@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 70
 
 title: "Evidence for policy"
 subtitle:
@@ -21,7 +21,7 @@ content:
   filters:
     author: ""
     category: ""
-    tag: "featured"
+    tag: "policy"
     exclude_featured: false
     exclude_future: false
     exclude_past: false
