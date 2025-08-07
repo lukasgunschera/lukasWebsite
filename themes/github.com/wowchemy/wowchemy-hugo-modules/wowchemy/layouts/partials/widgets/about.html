@@ -79,36 +79,37 @@
     
     
 <h2></h2>
-    <div class="row">
+<div class="row">
 
-      {{ with $person.education }}
+  {{ with $person.education }}
   <div class="education-div col-md-7">
     <h3>{{ i18n "education" | markdownify }}</h3>
     <ul class="ul-edu fa-ul">
       {{ range .courses }}
       <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course", style="color:#D30404">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
-              <p class="specialisation", style="color:#212121">{{.specialisation}} </p>
-              <p class="institution", style="color:#575757">{{ .institution }}</p>
-           </div>
+        <i class="fa-li fas fa-graduation-cap"></i>
+        <div class="description">
+          <p class="course" , style="color:#D30404">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
+          <p class="specialisation" , style="color:#212121">{{.specialisation}} </p>
+          <p class="institution" , style="color:#575757">{{ .institution }}</p>
+        </div>
       </li>
       {{ end }}
-
-            {{ with $person.interests }}
-            <div class="interests-div col-md-5">
-              <h3>{{ i18n "interests" | markdownify }}</h3>
-              <ul class="ul-interests">
-                {{ range . }}
-                <li>{{ . | markdownify | emojify }}</li>
-                {{ end }}
-              </ul>
-            </div>
-            {{ end }}
     </ul>
   </div>
   {{ end }}
-    </div>
+
+  {{ with $person.interests }}
+  <div class="interests-div col-md-5">
+    <h3>{{ i18n "interests" | markdownify }}</h3>
+    <ul class="ul-interests">
+      {{ range . }}
+      <li>{{ . | markdownify | emojify }}</li>
+      {{ end }}
+    </ul>
   </div>
+  {{ end }}
+
+</div>
+</div>
 </div>
