@@ -22,7 +22,7 @@ date_end: ""
 event: "Do individual differences in cognitive processes link social media use and mental health?"
 event_url: https://www.cpconf.org/
 
-featured: true
+featured: false
 image:
   caption:
   alt_text:
