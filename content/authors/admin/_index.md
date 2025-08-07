@@ -19,9 +19,9 @@ bio: I am a PhD student at the MRC Cognition and Brain Sciences Unit at the Univ
 
 interests:
 - Open, reproducible, and transparent research
-- Digital media 
-- Mental health
 - Cognitive neuroscience
+- Mental health
+- Digital media
 - Addiction
 
 # Education to show in About widget
@@ -63,7 +63,7 @@ social:
   link: https://github.com/lukasgunschera
 - icon: cv
   icon_pack: ai
-  link: uploads/cv.pdf
+  link: static/resume.pdf
 
 ---
 
