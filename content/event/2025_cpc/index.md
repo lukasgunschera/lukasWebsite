@@ -32,7 +32,7 @@ image:
 links:
   - icon: file-pdf
     icon_pack: far
-    name: "Slides"
+    name: "Poster"
     url: media/event/2025_cp_poster.pdf
 location: "Computational Psychiatry Conference"
 
