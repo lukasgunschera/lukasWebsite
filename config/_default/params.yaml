@@ -26,7 +26,7 @@ twitter: ""
 #  country_code: UK
 
 contact_links:
-  - icon: cloud
+  - icon: square-bluesky
     icon_pack: fas
     name: Follow me on BlueSky
     link: "https://bsky.app/profile/lukasgunschera.bsky.social"
