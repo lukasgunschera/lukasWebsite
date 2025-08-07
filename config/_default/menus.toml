@@ -54,16 +54,10 @@
   url = "resources/"
   weight = 60
 
-#[[main]]
-#  name = "Research Experience"
-#  url = "#experience"
-#  weight = 50
-
-
 [[main]]
   name = "CV"
   url = "cv/"
-  weight = 90
+  weight = 70
 
 #[[main]]
 #  name = "Courses"
