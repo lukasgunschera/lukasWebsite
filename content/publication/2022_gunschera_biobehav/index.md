@@ -9,11 +9,12 @@ authors:
   - I. A. Brazil
   - J. M. A. Driessen
 tags:
-  - Antisocial behavior
-  - Psychopathy
-  - Decision-making
-  - Neuroeconomics
-  - Cooperation
+  - antisocial behavior
+  - psychopathy
+  - decision-making
+  - neuroeconomics
+  - cooperation
+  - featured
 categories: []
 date: "2022-12-01"
 lastmod: 2022-12-07T18:32:36Z
@@ -38,20 +39,10 @@ publishDate: "2022-12-07T18:32:36.718342Z"
 publication_types: ["2"]
 abstract:
   Psychopathy is a personality construct that encompasses a constellation
-  of traits reflecting emotional dysfunction and antisocial behavior. This constellation
-  has consistently been linked to poor decision-making, often focused on personal
-  and monetary gains at the others’ expense. However, there remains a lack of a systematic
-  examination of how psychopathy is related to the prospect of obtaining monetary
-  gains as a function of social context. Therefore, we conducted a series of meta-analyses
-  to elucidate these relationships. Our findings indicated that elevated levels of
-  psychopathy are related to a reduced tendency to cooperate with others, and no difference
-  in the extent to which knowledge of others’ retaliation possibilities informs decision-making.
-  However, the type of social economic decision-making game employed moderated the
-  association between psychopathic traits and total gain obtained, suggesting that
-  context plays a key role in moderating the link between psychopathic features and
-  decision-making. These findings advance our understanding of psychopathy and open
-  new avenues for research on adaptive and maladaptive social behavior in individuals
-  with high levels of psychopathic traits.
+  of traits reflecting emotional dysfunction and antisocial behavior. This constellation has consistently been linked to poor decision-making, often focused on personal and monetary gains at the others’ expense. However, there remains a lack of a systematic examination of how psychopathy is related to the prospect of obtaining monetary gains as a function of social context. Therefore, we conducted a series of meta-analyses
+  to elucidate these relationships. Our findings indicated that elevated levels of psychopathy are related to a reduced tendency to cooperate with others, and no difference in the extent to which knowledge of others’ retaliation possibilities informs decision-making.
+  However, the type of social economic decision-making game employed moderated the association between psychopathic traits and total gain obtained, suggesting that context plays a key role in moderating the link between psychopathic features and
+  decision-making. These findings advance our understanding of psychopathy and open new avenues for research on adaptive and maladaptive social behavior in individuals with high levels of psychopathic traits.
 publication: "*Neuroscience & Biobehavioral Reviews*"
 doi: 10.1016/j.neubiorev.2022.104966
 links:

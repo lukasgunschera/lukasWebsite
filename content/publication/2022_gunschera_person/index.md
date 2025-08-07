@@ -14,11 +14,10 @@ authors:
   - K. Dutton
   - E. Fox
 tags:
-  - Psychopathy
-  - Integration
-  - Response Modulation
-  - Attention
-  - Illusory conjunction
+  - psychopathy
+  - response modulation
+  - attention
+  - featured
 categories: []
 date: "2023-02-01"
 lastmod: 2022-12-07T18:37:52Z
@@ -43,19 +42,8 @@ publishDate: "2022-12-07T18:37:52.452167Z"
 publication_types: ["2"]
 abstract:
   Progress in psychopathy research has been hampered by ongoing contention
-  about its fundamental cause. The Impaired Integration theory of psychopathy provides
-  an attention-based account of information integration abnormalities. We set out
-  to evaluate the suggested mechanism via an innovative application of the well-established
-  illusory conjunction paradigm (Treisman & Gelade, 1980). Two hundred participants
-  were recruited by utilising a psychopathic-trait-maximisation technique, sampling
-  individuals from an ex-prisoner and a population sample. We found no evidence for
-  differences in illusory conjunctions suggesting that integration of cues deficits
-  in psychopathic individuals (BF10 = 0.156), and the absence of a relationship between
-  psychopathic traits and illusory conjunctions remained when accounting for confounding
-  variables. These findings question the mechanism proposed by the Impaired Integration
-  theory and pave the way for future research to advance our understanding of psychopathic
-  trait aetiology by assessing specific and falsifiable mechanisms thought to bring
-  about the observed cognitive and behavioural deficits.
+  about its fundamental cause. The Impaired Integration theory of psychopathy provides an attention-based account of information integration abnormalities. We set out to evaluate the suggested mechanism via an innovative application of the well-established
+  illusory conjunction paradigm (Treisman & Gelade, 1980). Two hundred participants were recruited by utilising a psychopathic-trait-maximisation technique, sampling individuals from an ex-prisoner and a population sample. We found no evidence for differences in illusory conjunctions suggesting that integration of cues deficits in psychopathic individuals (BF10 = 0.156), and the absence of a relationship between psychopathic traits and illusory conjunctions remained when accounting for confounding variables. These findings question the mechanism proposed by the Impaired Integration theory and pave the way for future research to advance our understanding of psychopathic trait aetiology by assessing specific and falsifiable mechanisms thought to bring about the observed cognitive and behavioural deficits.
 publication: "*Personality Disorders: Theory, Research, and Treatment*"
 doi: https://doi.org/10.1037/per0000619
 links:
