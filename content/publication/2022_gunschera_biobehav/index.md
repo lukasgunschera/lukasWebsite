@@ -35,8 +35,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: "2022-12-07T18:32:36.718342Z"
-publication_types:
-  - ""
+publication_types: ["2"]
 abstract:
   Psychopathy is a personality construct that encompasses a constellation
   of traits reflecting emotional dysfunction and antisocial behavior. This constellation
