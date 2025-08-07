@@ -37,7 +37,7 @@
     weight = 20
 
 [[main]]
-    name = "Conference presentations"
+    name = "Presentations"
     parent =  "research"
     url = "research/#talks"
     weight = 30
