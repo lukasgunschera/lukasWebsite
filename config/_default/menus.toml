@@ -32,52 +32,16 @@
     weight = 10
     
 [[main]]
-    name = "Current and completed projects"
-    parent =  "research"
-    url = "research/#projects"
-    weight = 20
-
-[[main]]
-    name = "Master's thesis project (2021 - 2022)"
-    parent =  "research"
-    url = "project/pop_spec_eqtl/"
-    weight = 30
-    
-[[main]]
     name = "Publications"
     parent =  "research"
     url = "research/#publications"
-    weight = 40
+    weight = 20
 
 [[main]]
     name = "Conference presentations"
     parent =  "research"
     url = "research/#talks"
-    weight = 50
-
-[[main]]
-  name = "Writing"
-  identifier = "writing"
-  url = "writing/"
-  weight = 50
-  
-  [[main]]
-  name = "Academic journal articles"
-  parent = "writing"
-  url = "research/#publications"
-  weight = 10
-  
-  [[main]]
-  name = "Published non-academic writing"
-  parent = "writing"
-  url = "writing/"
-  weight = 20
-  
-  [[main]]
-  name = "Research and coding blogs"
-  parent = "writing"
-  url = "resources/"
-  weight = 30
+    weight = 30
   
 #[[main]]
 #    name = "Submenu Item 1"
@@ -86,7 +50,7 @@
 #    weight = 10
   
 [[main]]
-  name = "Research and Coding Blogs"
+  name = "Publications"
   url = "resources/"
   weight = 60
 
@@ -94,16 +58,6 @@
 #  name = "Research Experience"
 #  url = "#experience"
 #  weight = 50
-
-[[main]]
-  name = "Science Communication"
-  url = "science-communication/"
-  weight = 70
-
-[[main]]
-  name = "VCE Biology"
-  url = "vce-biology/"
-  weight = 80
 
 
 [[main]]
