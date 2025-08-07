@@ -25,9 +25,9 @@ image:
 links:
   - icon: file-pdf
     icon_pack: far
-    name: "BioPS 2021 Slides"
+    name: "Slides"
     url: media/event/2025_ecjrc_presentation.pdf
-location: "European Commission: VirtueS Seminar"
+location: "European Commission"
 
 slides:
 summary: "Oral Presentation"
@@ -35,7 +35,7 @@ meta_summary: "Delivered an oral presentation at the European Commission VirtueS
 tags: ["policy", "digital media", "measurement", "regulation"]
 title: "Building on Lessons from Research on Digital Media and Mental Health"
 
-url: "/talk/biops_2022/"
+url: "/talk/2025_ecjrc/"
 url_code: ""
 url_pdf: ""
 url_slides: ""
