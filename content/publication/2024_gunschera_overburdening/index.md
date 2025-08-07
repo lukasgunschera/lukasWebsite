@@ -12,10 +12,10 @@ authors:
   - R. Murphy
 
 tags:
-  - Psychopathy
-  - Associative learning
-  - Processing load
-  - Attention
+  - psychopathy
+  - associative learning
+  - attention
+  - featured
 categories: []
 date: "2024-04-29"
 lastmod: 2024-04-29T11:37:52Z
