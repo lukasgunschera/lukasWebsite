@@ -22,7 +22,7 @@ authors:
 date: "2025-06-30T15:00:00Z"
 date_end: ""
 event: "Assessing social media use using a cognitive-behavioural marker of addiction"
-event_url: https://www.bap.org.uk/
+event_url: https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality/summer-institute
 
 featured: false
 image:
@@ -36,7 +36,7 @@ links:
     icon_pack: far
     name: "Poster"
     url: media/event/2025_bap_poster.pdf
-location: "British Association for Psychopharmacology Conference"
+location: "Max Planck Institute for Human Development"
 
 slides:
 summary: "Poster Presentation"
