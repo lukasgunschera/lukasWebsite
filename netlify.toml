@@ -1,21 +1,116 @@
 [build]
-  command = "hugo --gc --minify -b $URL"
-  publish = "public"
+publish = "public"
+command = "hugo -b https://lukasgunschera.com --buildFuture && cp _redirects.txt /opt/build/repo/public/_redirects && mv robots_prod.txt /opt/build/repo/public/robots.txt"
+#command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && cp _redirects.txt /opt/build/repo/public/_redirects && mv robots_prod.txt /opt/build/repo/public/robots.txt"
 
 [build.environment]
-  HUGO_VERSION = "0.80.0"
-  HUGO_ENABLEGITINFO = "true"
-
-[context.production.environment]
-  HUGO_ENV = "production"
-
-[context.deploy-preview]
-  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
-
-[context.branch-deploy]
-  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+HUGO_VERSION = "0.80.0"
 
 [[plugins]]
-  package = "netlify-plugin-hugo-cache-resources"
+  package = "netlify-plugin-inline-source"
+  
   [plugins.inputs]
-    debug = true
+    attribute = "false"
+
+
+[[plugins]]
+  package = "netlify-plugin-inline-critical-css"
+
+  [plugins.inputs]
+   fileFilter = ['index.html']
+   directoryFilter = ['!*']
+
+[[plugins]]
+  package = "@netlify/plugin-sitemap"
+
+  [plugins.inputs]
+   buildDir = "public"
+  
+   # change sitemap index url
+   baseUrl = "https://lukasgunschera.com"
+
+   # default change in site: 
+   changeFreq =  "weekly"
+   priority = 0.7
+  
+   prettyURLs = true
+   # Append missing trailing slash to pretty URL
+   trailingSlash = true
+
+   exclude = [
+    './.well-known/**',
+    './2018/**',
+    './admin/',
+    '/admin.php',
+    './author/**',
+    'author/**',
+    './author/christina-b-azodi/',
+    './backup',
+    './blank_type/**',
+    '/blank_type/**',
+    '/blank_type/**/',
+    'blank_type/**',
+    'blank_type/**/',
+    'category/aos1/**',
+    '/category/endoplasmic-reticulum/',
+    '/category/organelles/',
+    'category/the-relationship-between-nucleic-acids-and-proteins',
+    './css/**',
+    './event/**',
+    './favicon.ico',
+    './index.php',
+    '/index.php',
+    './inputs.php',
+    'js/**',
+    'js/vendor/reveal.js/plugin/notes/notes/**',
+    './js/vendor/reveal.js/plugin/notes/**',
+    '/js/vendor/reveal.js/plugin/notes/**',
+    './media/**',
+    '/post/**', 
+    'post/**', 
+    './posts/**',
+    '/publication_themes/**',
+    'publication_themes/**',
+    './publication_themes/**',
+    './Public/home/js/**',
+    '**.php',
+    '/**.php',
+    './simple.php',
+    './ss.php',
+    './static/**',
+    './test/**',
+    './theme/**',
+    './vce-biology/**/photos/',
+    '.well-known/**',
+    '/.well-known/**',
+    './wp-content/**',
+    './wp-content/plugins/**',
+    './xmlrpc.php',
+    './/2018/**',
+    './/shop/**',
+    './/test/**',
+    './/xmlrpc.php',
+    '**.php',
+    '//**/wp-includes/**'
+    
+  ]
+
+[context.production.environment]
+HUGO_VERSION = "0.80.0"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+
+# netlify.toml (non-production environment)
+[context.deploy-preview]
+command = "hugo -b https://lukasgunschera.com --buildFuture && mv robots_prod.txt /opt/build/repo/public/robots.txt"
+#command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && mv robots_non_prod.txt /opt/build/repo/public/robots.txt"
+
+[context.branch-deploy]
+command = "hugo -b https://lukasgunschera.com --buildFuture && mv robots_prod.txt /opt/build/repo/public/robots.txt"
+#command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && mv robots_non_prod.txt /opt/build/repo/public/robots.txt"
+
+[[redirects]]
+  from = "https://main--lukasgunschera.netlify.app/*"
+  to = "https://lukasgunschera.com/:splat"
+  status = 301
+  force = true
