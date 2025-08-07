@@ -1,6 +1,6 @@
 ---
 title: "Written evidence for initiative to protect youth mental health, safety, and privacy online"
-subtitle: "Evidence-based report on the evidence regarding social media use and mental health, highlighting nuance and need for adaptive policies"
+subtitle: "US Department of Commerce National Telecommunications and Information Administration"
 
 # Authors
 authors:
@@ -9,7 +9,7 @@ authors:
   - Georgia Turner
 
 # Publication date
-date: "2024-01-15T00:00:00Z"
+date: "2023-08-15T00:00:00Z"
 
 tags:
   - policy
@@ -40,8 +40,6 @@ projects: []
 # Slides (optional)
 slides: ""
 ---
-
-## Executive Summary
 
 In this policy report we highlight that social media's effects on youth mental health are individualized and context-dependent, challenging oversimplified approaches that focus solely on reducing screen time. The report references the "digital diet" framework, recognising that the nature of the digital experiences are more important than the amount consumed alone. We also highlight critical research limitations following from restricted access to social media data and call for legislative intervention to enable independent research, nuanced age-appropriate regulations, and adaptive policies that treat digital governance as an evolving process requiring regular scrutiny rather than one-time interventions.
 
