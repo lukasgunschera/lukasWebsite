@@ -1,18 +1,12 @@
 ---
 title: "Written evidence for initiative to protect youth mental health, safety, and privacy online"
-subtitle: "US Department of Commerce National Telecommunications and Information Administration"
+subtitle: "US Department of Commerce: National Telecommunications and Information Administration"
 
 # Authors
 authors:
   - Amy Orben
   - Lukas Gunschera
   - Georgia Turner
-
-links:
-  - icon: file-pdf
-    icon_pack: far
-    name: "Report"
-    url: media/report/2023_ntia.pdf
 
 # Publication date
 date: "2023-08-15T00:00:00Z"
@@ -26,7 +20,7 @@ tags:
 featured: true
 
 # Links
-url_pdf: "report/2023_ntia.pdf"
+url_pdf: "media/report/2023_ntia.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
