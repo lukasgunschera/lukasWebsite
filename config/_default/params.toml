@@ -39,11 +39,11 @@ font_size = "M"
 #   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
 site_type = "Person"
 
-title = "Isobel Beasley"
+title = "Lukas Gunschera"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://www.isobelbeasley.com/"
+baseurl = "https://www.lukasgunschera.com/"
 
 # Local business type (optional)
 # If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
@@ -118,13 +118,7 @@ appointment_url = []
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "Twitter@", link = "https://twitter.com/ijbeasley"},
-  #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  #{icon = "graduation-cap", icon_pack = "fas", name = "Scholar", link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"},  #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  ]
+contact_links = []
 
 ############################
 ## Social
@@ -132,9 +126,6 @@ contact_links = [
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
 sharing_image = ""
-
-# Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "ijbeasley"
 
 ############################
 ## Regional Settings
