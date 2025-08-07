@@ -23,7 +23,7 @@ social:
   icon_pack: ai
   link: https://osf.io/7qb8m/
   
-summary: "View Isobel Beasley's CV, showcasing her educational background, interdisciplinary research in Genomics and Bioinformatics, professional experience, academic publications, and contributions in science communication."
+summary: "View Lukas Gunschera's academic CV"
 ---
 
 
