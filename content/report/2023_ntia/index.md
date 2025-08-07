@@ -8,6 +8,12 @@ authors:
   - Lukas Gunschera
   - Georgia Turner
 
+links:
+  - icon: file-pdf
+    icon_pack: far
+    name: "Report"
+    url: media/report/2023_ntia.pdf
+
 # Publication date
 date: "2023-08-15T00:00:00Z"
 
