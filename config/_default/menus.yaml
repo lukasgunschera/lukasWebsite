@@ -1,23 +1,21 @@
 # navigation Links
 main:
   - name: Home
-    url: '#about'
+    url: "#about"
     weight: 10
   - name: Google Scholar
-    url: 'https://scholar.google.com/citations?hl=en&user=wRydfNQAAAAJ'
+    url: "https://scholar.google.com/citations?hl=en&user=wRydfNQAAAAJ"
     weight: 20
   - name: Publications
-    url: '#publications'
+    url: "#publications"
     weight: 30
   - name: Awards
-    url: '#awards'
+    url: "#awards"
     weight: 40
   - name: Contact
-    url: '#contact'
+    url: "#contact"
     weight: 50
 
-
-# add link to CV
-  - name: CV
+  - name: Curriculum Vitae
     url: uploads/cv.pdf
     weight: 45

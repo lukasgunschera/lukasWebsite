@@ -13,7 +13,7 @@ organizations:
     url: https://www.mrc-cbu.cam.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student at the MRC Cognition and Brain Sciences Unit at the University of Cambridge. I am particularly interested in the cognitive and social mechanisms that underlie engagement and outcomes of social media use. My research uses a combination of longitudinal and computational approaches to examining the (cognitive) mechanisms implicated in social media use and mental health. I have a background in methodology and statistics and focus on conducting open and reproducible research.
+bio: I am a PhD student at the MRC Cognition and Brain Sciences Unit at the University of Cambridge. My research integrates computational modelling with experimental and longitudinal methods to examine the behavioural and neurocognitive mechanisms connecting social media use and mental health outcomes. I’m particularly interested in identifying factors that contribute to risk and resilience in digital environments, with special attention to addictive behaviour patterns. This work aims to bridge theoretical understanding with practical applications, ultimately informing evidence-based intervention and policy development. I have a background in methodology and statistics and focus on conducting open and reproducible research.
 
 # Interests to show in About widget
 interests:
@@ -58,16 +58,16 @@ social:
     icon_pack: fas
     link: https://bsky.app/profile/lukasgunschera.bsky.social
 
-  # Link to a PDF of your resume/CV.
+  # Curriculum Vitae
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 
-# Enter email to display Gravatar
+# Gravatar
 email: "l.gunschera@outlook.com"
 
-# Highlight the author in author lists? (true/false)
+# Highlight author
 highlight_name: true
 ---
 
-I am a PhD student at the MRC Cognition and Brain Sciences Unit at the University of Cambridge. I am particularly interested in the cognitive and social mechanisms that underlie human learning. My research examines the (cognitive) processes that shape engagement and outcomes of social media use. I have a background in methodology and statistics and focus on conducting open and reproducible research.
+I am a PhD student at the MRC Cognition and Brain Sciences Unit at the University of Cambridge. My research integrates computational modelling with experimental and longitudinal methods to examine the behavioural and neurocognitive mechanisms connecting social media use and mental health outcomes. I’m particularly interested in identifying factors that contribute to risk and resilience in digital environments, with special attention to addictive behaviour patterns. This work aims to bridge theoretical understanding with practical applications, ultimately informing evidence-based intervention and policy development. I have a background in methodology and statistics and focus on conducting open and reproducible research.
