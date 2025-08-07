@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Recent Publications
-subtitle: ''
+title: Selected Publications
+subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -23,10 +23,10 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
+    tag: ""
+    category: ""
+    publication_type: ""
+    author: ""
     exclude_featured: true
 design:
   # Choose a view for the listings:
@@ -36,5 +36,3 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
-
-
