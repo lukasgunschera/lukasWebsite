@@ -45,12 +45,12 @@
 [[main]]
   name = "Policy"
   url = "#policy"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Teaching"
   url = "teaching/"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "CV"
