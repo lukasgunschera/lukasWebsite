@@ -5,7 +5,7 @@ title: "Overburdening associations: The dependency of psychopathy-related acquis
 subtitle: ""
 summary: ""
 authors:
-  - L. J. Gunschera
+  - **L. J. Gunschera**
   - K. Dutton
   - E. Fox
   - A. Temple-McCune
