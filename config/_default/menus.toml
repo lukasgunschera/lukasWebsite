@@ -55,4 +55,4 @@
 [[main]]
   name = "CV"
   url = "media/resume.pdf"
-  weight = 50
+  weight = 100
