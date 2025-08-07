@@ -9,18 +9,18 @@ headless: true
 # Order that this section appears on the page.
 weight: 25
 
-title: Publications & Preprints
-subtitle: ''
+title: Selected Publications
+subtitle: ""
 
 content:
   # Filter on criteria
   filters:
     folders:
       - publication
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
+    tag: ""
+    category: ""
+    publication_type: ""
+    author: ""
     exclude_featured: false
     exclude_future: false
     exclude_past: false
@@ -33,7 +33,5 @@ content:
 design:
   # Choose a view for the listings:
   view: citation
-  columns: '2'
+  columns: "2"
 ---
-
-
