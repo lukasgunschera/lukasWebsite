@@ -1,14 +1,13 @@
-# IDEs
-.idea/
-
-# Hugo
-/resources/
-public/
-jsconfig.json
-node_modules/
-.DS_Store
-.env
-.env.development
-.env.production
-.env.test
-*.log
+**.Rproj.user/
+**.Rproj.user/*
+*.Rhistory
+*public
+*.hugo_build.lock
+.RData
+.Ruserdata
+.Rproj.user
+**content/things_for_me_only/*
+**resources/_gen/images/things_for_me_only/
+**resources/_gen/
+**.Rprofile
+**themes/starter-academic/exampleSite/resources/

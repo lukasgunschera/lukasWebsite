@@ -9,7 +9,7 @@
 #  weight = 10
   
 [[main]]
-  name = "Home"
+  name = "About Me"
   url = "#about"
   weight = 20
   
@@ -18,18 +18,107 @@
 #  url = "#publications"
 #  weight = 30
 
+
+[[main]]
+  name = "Research"
+  identifier = "research"
+  url = "research/"
+  weight = 40
   
 [[main]]
-    name = "Awards"
-    url = "#research"
-    weight = 40
+    name = "Overview"
+    parent =  "research"
+    url = "research/"
+    weight = 10
     
 [[main]]
-    name = "Contact"
-    url = "#contact"
+    name = "Current and completed projects"
+    parent =  "research"
+    url = "research/#projects"
+    weight = 20
+
+[[main]]
+    name = "Master's thesis project (2021 - 2022)"
+    parent =  "research"
+    url = "project/pop_spec_eqtl/"
+    weight = 30
+    
+[[main]]
+    name = "Publications"
+    parent =  "research"
+    url = "research/#publications"
+    weight = 40
+
+[[main]]
+    name = "Conference presentations"
+    parent =  "research"
+    url = "research/#talks"
     weight = 50
 
 [[main]]
-  name = "Curriculum Vitae"
-  url = "uploads/cv.pdf"
+  name = "Writing"
+  identifier = "writing"
+  url = "writing/"
+  weight = 50
+  
+  [[main]]
+  name = "Academic journal articles"
+  parent = "writing"
+  url = "research/#publications"
+  weight = 10
+  
+  [[main]]
+  name = "Published non-academic writing"
+  parent = "writing"
+  url = "writing/"
+  weight = 20
+  
+  [[main]]
+  name = "Research and coding blogs"
+  parent = "writing"
+  url = "resources/"
+  weight = 30
+  
+#[[main]]
+#    name = "Submenu Item 1"
+#    parent =  "research"
+#    url = "research/submenu1/"
+#    weight = 10
+  
+[[main]]
+  name = "Research and Coding Blogs"
+  url = "resources/"
   weight = 60
+
+#[[main]]
+#  name = "Research Experience"
+#  url = "#experience"
+#  weight = 50
+
+[[main]]
+  name = "Science Communication"
+  url = "science-communication/"
+  weight = 70
+
+[[main]]
+  name = "VCE Biology"
+  url = "vce-biology/"
+  weight = 80
+
+
+[[main]]
+  name = "CV"
+  url = "cv/"
+  weight = 90
+
+#[[main]]
+#  name = "Courses"
+#  url = "courses/"
+#  weight = 100
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
+# [[main]]
+#    name = "CV"
+#    url = "media/resume.pdf"
+#    weight = 70

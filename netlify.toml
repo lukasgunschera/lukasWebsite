@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "hugo -b https://lukasgunschera.com --buildFuture && cp _redirects.txt /opt/build/repo/public/_redirects && mv robots_prod.txt /opt/build/repo/public/robots.txt"
+command = "hugo -b https://isobelbeasley.com --buildFuture && cp _redirects.txt /opt/build/repo/public/_redirects && mv robots_prod.txt /opt/build/repo/public/robots.txt"
 #command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && cp _redirects.txt /opt/build/repo/public/_redirects && mv robots_prod.txt /opt/build/repo/public/robots.txt"
 
 [build.environment]
@@ -27,7 +27,7 @@ HUGO_VERSION = "0.80.0"
    buildDir = "public"
   
    # change sitemap index url
-   baseUrl = "https://lukasgunschera.com"
+   baseUrl = "https://isobelbeasley.com"
 
    # default change in site: 
    changeFreq =  "weekly"
@@ -36,6 +36,7 @@ HUGO_VERSION = "0.80.0"
    prettyURLs = true
    # Append missing trailing slash to pretty URL
    trailingSlash = true
+
 
    exclude = [
     './.well-known/**',
@@ -94,7 +95,9 @@ HUGO_VERSION = "0.80.0"
     '//**/wp-includes/**'
     
   ]
+  
 
+  
 [context.production.environment]
 HUGO_VERSION = "0.80.0"
 HUGO_ENV = "production"
@@ -102,15 +105,15 @@ HUGO_ENABLEGITINFO = "true"
 
 # netlify.toml (non-production environment)
 [context.deploy-preview]
-command = "hugo -b https://lukasgunschera.com --buildFuture && mv robots_prod.txt /opt/build/repo/public/robots.txt"
+command = "hugo -b https://isobelbeasley.com --buildFuture && mv robots_prod.txt /opt/build/repo/public/robots.txt"
 #command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && mv robots_non_prod.txt /opt/build/repo/public/robots.txt"
 
 [context.branch-deploy]
-command = "hugo -b https://lukasgunschera.com --buildFuture && mv robots_prod.txt /opt/build/repo/public/robots.txt"
+command = "hugo -b https://isobelbeasley.com --buildFuture && mv robots_prod.txt /opt/build/repo/public/robots.txt"
 #command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && mv robots_non_prod.txt /opt/build/repo/public/robots.txt"
 
 [[redirects]]
-  from = "https://main--lukasgunschera.netlify.app/*"
-  to = "https://lukasgunschera.com/:splat"
+  from = "https://main--isobelbeasley.netlify.app/*"
+  to = "https://isobelbeasley.com/:splat"
   status = 301
   force = true

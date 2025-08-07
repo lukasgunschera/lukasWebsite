@@ -1,5 +1,7 @@
-[[main]]
-name = "Curriculum Vitae"  
- url = "cv/"  
- weight = 70
-title = "Curriculum Vitae - Lukas Gunschera"
+---
+# Homepage
+type: widget_page
+title: CV
+# Homepage is headless, other widget pages are not.
+headless: false
+---

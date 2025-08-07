@@ -1,9 +1,12 @@
 ---
 # An instance of the Contact widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
 
 # This file represents a page section.
 headless: true
+
+active: false
 
 # Order that this section appears on the page.
 weight: 130
@@ -17,13 +20,13 @@ content:
   
   # Email form provider
   form:
-    provider: netlify
+    provider: formspree
     formspree:
-      id:
+      id: test
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: true
-
+      captcha: false
+  
 design:
   columns: '2'
 ---

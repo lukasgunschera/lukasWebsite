@@ -1,19 +1,23 @@
 ---
 # An instance of the Accomplishments widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: accomplishments
 
 # This file represents a page section.
 headless: true
 
+active: false
+
 # Order that this section appears on the page.
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Certificates'
+title: 'Accomplish&shy;ments'
 subtitle:
 
 # Date format
-date_format: January 2, 2006
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -21,38 +25,28 @@ date_format: January 2, 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: 
-  date_end: "2024-08-17"
-  date_start: "2024-08-04"
-  description: ""
-  organization: European Society for Cognitive Psychology
-  organization_url: https://www.escop.eu/ 
-  title: Computational and mathematical modeling of cognition (summer school)
-  url: 
-- certificate_url: 
-  date_end: "2024-07-17"
-  date_start: "2024-07-14"
-  description: ""
-  organization: University of Birmingham
-  organization_url: https://www.compsoccog.com/
-  title: Computational social cognition (summer school)
-  url: ""
-- certificate_url: https://www.coursera.org/account/accomplishments/certificate/T5SWB5V43C6N
+- certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2020-12-29"
+  date_start: "2018-10-01"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Introduction to Probability and Data with R
+  title: Neural Networks and Deep Learning
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
-  date_start: "2020-11-21"
+  date_start: "2018-03-01"
+  description: Formulated informed blockchain models, hypotheses, and use cases.
   organization: edX
   organization_url: https://www.edx.org
-  title: Data Science
-  url: https://courses.edx.org/certificates/d9a5ca37104346cb863f5f4a2788fb05
-
-design:
-  columns: '2' 
+  title: Blockchain Fundamentals
+  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+- certificate_url: https://www.datacamp.com
+  date_end: "2017-12-21"
+  date_start: "2017-07-01"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  url: ""
 ---

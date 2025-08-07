@@ -1,22 +1,22 @@
 ---
 # An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-active: false
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 50
 
-title: 'Recent & Upcoming Talks'
+title: 'Recent Conference Talks & Posters'
 subtitle:
 
 content:
   # Page type to display. E.g. post, event, publication...
   page_type: event
   # Choose how many pages you would like to display (0 = all pages)
-  count: 5
+  count: 3
   # Filter on criteria
   filters:
     author: ""

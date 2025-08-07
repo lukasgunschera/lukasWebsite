@@ -1,0 +1,5 @@
+Stage,Where,Net inputs ,Net outputs ,Anaerobic / Aerobic ? ,ATP produced?
+Glycolysis,Cytosol,ADP + Pi <br> <br>  Glucose 🍬 <br> <br> NAD+,ATP⚡ <br><br> NADH <br><br> Pyruvate,Aerobic 🏃 <br> Anaerobic 🏋️‍♀️,2
+Kreb's Cycle\<br> Citric Acid Cycle,Matrix <br> (Mitochondria),ADP + Pi <br> <br>  FAD <br> <br> NAD+ <br> <br> Oxygen 💨 <br> <br> Pyruvate,ATP⚡ <br><br> CO2 <br><br>  FADH2 <br><br>  NADH,Aerobic 🏃,2
+Electron Transport Chain,Cristae <br> (Mitochondria),ADP + Pi <br> <br> FADH2 <br> <br> NADH <br> <br> Oxygen 💨,ATP⚡ <br><br>  FAD <br><br>  NAD+ <br><br>  Water 🥤,Aerobic 🏃,32
+Anaerobic Coenzyme Recycling*,Cytosol,NADH <br> <br> Pyruvate,ADP + Pi <br><br>  Ethanol + CO2 (yeast) <br><br> Latic Acid (In Animals) <br><br>  NAD+,Anaerobic 🏋️‍♀️,0

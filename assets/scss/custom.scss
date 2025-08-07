@@ -1,0 +1,411 @@
+
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+/* default font sizing ... */
+
+
+:root {
+  --ideal-viewport-width: 1000;
+  --current-viewport-width: 100vw;
+  --base-font-size: 22;
+  --ideal-h2-font-size: 18;
+  --ideal-h3-font-size: 16;
+  --ideal-body-font-size: 16px;
+}
+
+h1 {
+font-size: clamp(calc(max(30px,2.14em)), calc(3vw+5em), 70vmax);
+color: #D32F2F; 
+}
+
+h2 {
+font-size: clamp(calc(max(22px,1.5em)), calc(3vw+2em), 20vmax);
+color: #D32F2F; 
+}
+
+h3 {
+font-size: clamp(calc(max(18px,1.29em)), calc(2vw+1em), 10vmax)
+}
+
+p {
+font-size: clamp(calc(max(16px,1.15em)), calc(1.5vw+1em), 5vmax)
+}
+
+body {
+font-size: clamp(calc(max(14px,1em)), calc(1vw+1em), 5vmax)
+}
+
+title {
+  font-size: clamp(calc(max(30px,2.14em)), calc(3vw+5em), 70vmax)
+}
+
+
+/* fade in animations on homepage */
+
+@-webkit-keyframes yourfirstanimation {
+  from {opacity: 0; color: red;}
+  to {opacity: 1; color: black;}
+}
+
+@keyframes yourfirstanimation {
+  from {opacity: 0; color: red;}
+  to {opacity: 1; color: black;}
+}
+
+@-webkit-keyframes slide-from-left {
+  0% {-webkit-transform: translateX(-150%);transform: translateX(-150%)}
+  100% { -webkit-transform: translateX(0%); transform: translateX(0%); }
+}
+
+@keyframes slide-from-left {
+  0% {-webkit-transform: translateX(-150%);transform: translateX(-150%)}
+  100% { -webkit-transform: translateX(0%); transform: translateX(0%); }
+}
+
+@-webkit-keyframes fade-in {
+  0% {opacity: 0}
+  100% {opacity: 1}
+}
+
+@keyframes fade-in {
+  0% {opacity: 0}
+  100% {opacity: 1}
+}
+
+@keyframes delay-plz { 
+  0% {opacity: 0}
+  100% {opacity: 0}
+}
+
+@-webkit-keyframes delay-plz {
+  0% {opacity: 0}
+  100% {opacity: 0}
+}
+
+@-webkit-keyframes slide-from-right {
+  0% {-webkit-transform: translateX(150%);transform: translateX(150%)}
+  100% { -webkit-transform: translateX(0%); transform: translateX(0%); }
+}
+
+@keyframes slide-from-right {
+  0% {-webkit-transform: translateX(150%);transform: translateX(150%)}
+  100% { -webkit-transform: translateX(0%); transform: translateX(0%); }
+}
+
+@-webkit-keyframes slide-from-right-to-middle {
+  0% {-webkit-transform: translateX(200%);transform: translateX(200%)}
+  100% { -webkit-transform: translateX(10%); transform: translateX(10%); }
+}
+
+@keyframes slide-from-right-to-middle {
+  0% {-webkit-transform: translateX(200%);transform: translateX(200%)}
+  100% { -webkit-transform: translateX(10%); transform: translateX(10%); }
+}
+
+/* Home page profile / about section */ 
+
+#profile {
+  -webkit-animation: slide-from-left 0s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+          animation: slide-from-left 0s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+}
+
+#about {
+   
+  .biography-title {
+  -webkit-animation: slide-from-right 0s forwards;
+          animation: slide-from-right 0s forwards;
+  }
+  
+  .main-content {
+  -webkit-animation: slide-from-right 0s forwards;
+          animation: slide-from-right 0s forwards;
+  -webkit-animation-delay: 100ms;
+          animation-delay: 100ms;
+  color:#050505
+}
+  
+  .interests-div {
+  opacity: 0;
+  -webkit-animation: fade-in 0s forwards;
+          animation: fade-in 0s forwards;
+  -webkit-animation-delay: 200ms;
+          animation-delay: 200ms;
+}
+
+.education-div {
+  opacity: 0;
+  -webkit-animation: fade-in 0s forwards;
+          animation: fade-in 0s forwards;
+  -webkit-animation-delay: 200ms;
+          animation-delay: 200ms;
+}
+  
+}
+
+/* Home page overview section */
+
+#overview-title { 
+  opacity: 0;
+  -webkit-animation: fade-in 0s forwards;
+          animation: fade-in 0s forwards;
+  -webkit-animation-delay: 0s;
+          animation-delay: 0s;
+}
+
+.overview-content-text {
+  font-size: clamp(calc(max(18px,1.29em)), calc(2vw+1em), 10vmax);
+}
+
+#overview-subtitle { 
+  opacity: 0;
+  -webkit-animation: fade-in 1s forwards;
+          animation: fade-in 1s forwards;
+  -webkit-animation-delay: 0.2s;
+          animation-delay: 0.2s;
+}
+
+#overview-subsubtitle { 
+  opacity: 0;
+  -webkit-animation: fade-in 1s forwards;
+          animation: fade-in 1s forwards;
+  -webkit-animation-delay: 0.2s;
+          animation-delay: 0.2s;
+}
+
+
+.overview-icons{
+    opacity: 0;
+  -webkit-animation: fade-in 1s forwards;
+          animation: fade-in 1s forwards;
+  -webkit-animation-delay: 0.2s;
+          animation-delay: 0.1s;
+}
+
+#overview-content { 
+   text-colour: #333333;
+    opacity: 0;
+    -webkit-animation: fade-in 1s forwards;
+          animation: fade-in 1s forwards;
+    -webkit-animation-delay: 0.7s;
+          animation-delay: 0.7s;
+          
+}
+
+/* CV */
+
+.column-cv {
+  float: right;
+  width: 50%;
+}
+
+
+/* General post structure */
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.article-container {
+  max-width: 900px;
+  padding: 10px 0px 10px 0px;
+  margin: 0 auto 0 auto;
+  font-size: 18px;
+}
+
+ .navbar {
+  height: 70px;
+  background: $sta-menu-primary;
+/* this is the part that takes out the shadow & the only edit */
+  box-shadow: none;  
+  font-size: clamp(calc(max(22px,1.5em)), calc(3vw+2em), 20vmax);
+  font-weight: 120 !important;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+  padding: 0 1rem;
+ } 
+
+ .card-simple {
+  background: #fff;
+/* this is the part that takes out the shadow */
+  box-shadow: none;
+  border: 1px solid rgba(0,0,0,.09);
+  border-radius: 3px;
+  margin-top: 20px;
+  padding: 15px 20px 15px 20px;
+}
+
+.card {
+  margin-bottom: 1.5rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  background: #fff;
+/* this is the part that takes out the shadow */
+  box-shadow: none;
+  transition: all 0.2s ease-out;
+}
+
+
+input[type='checkbox'] {
+  display: none;
+}
+
+
+.lbl-toggle {
+  display: block;
+
+  font-weight: bold;
+  font-size: 1.2rem;
+  text-align: center;
+
+  padding: 1rem;
+
+  color: #60BAE6;
+  background: #F5F5F5;
+
+  cursor: pointer;
+
+  border-radius: 7px;
+  transition: all 0.25s ease-out;
+}
+
+.lbl-toggle:hover {
+  color: #D2524B; 
+}
+
+.lbl-toggle::before {
+  content: ' ';
+  display: inline-block;
+
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid currentColor;
+
+  vertical-align: middle;
+  margin-right: .7rem;
+  transform: translateY(-2px);
+
+  transition: transform .2s ease-out;
+}
+
+.collapsible-content .content-inner {
+  background: rgba(245, 245, 245, .2);
+  border-bottom: 1px solid rgba(245, 245, 245, .45);
+
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  padding: .5rem 1rem;
+}
+
+.collapsible-content {
+  max-height: 0px;
+  overflow: hidden;
+
+  transition: max-height .25s ease-in-out;
+}
+
+.toggle:checked + .lbl-toggle + .collapsible-content {
+  max-height: 100vh;
+}
+
+.toggle:checked + .lbl-toggle::before {
+  transform: rotate(90deg) translateX(-3px);
+}
+
+.toggle:checked + .lbl-toggle {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.specialisation {
+    font-size: calc(0.5rem + 0.4vw);
+  }
+  
+.course { 
+  font-size: calc(0.8rem + 0.4vw);
+  font-weight: bolder;
+}
+
+.portrait-title {
+  font-size: calc(0.9rem + 0.5vw);
+}
+
+
+.employ-text{
+  font-size: calc(0.8rem + 0.00vw);
+}
+
+.edu-title{
+  font-size: calc(0.8rem + 0.3vw);
+}
+
+.edu-title-top{
+  font-size: calc(1rem + 0.4vw);
+}
+
+.employ-text-par{
+  font-size: calc(0.7rem + 0.1vw);
+}
+
+.company-title-text {
+  font-size: calc(0.85rem + 0.1vw);
+}
+
+.desc-test{
+  font-size: calc(1rem + 0.1vw);
+  font-family: Arial, Helvetica, sans-serif;
+}
+.experience-title{
+  font-size: calc(0.95rem + 0.1vw);
+}
+
+#exp-descrip{
+  font-size: calc(1rem + 0.5vw);
+}
+
+
+.article-metadata{
+  color: #575757;
+}
+
+.article-metadata a {
+    color: #575757;
+}
+
+.site-footer{
+  color: #575757;
+}
+
+.card .card-text p{
+    color: #575757;
+}
+
+.li-cite-author{
+    color: #575757;
+}
+
+.li-cite-author a{
+   color: #575757;
+}
+  
+.pub.list.item{
+   color: #575757;
+}
+
+.btn.btn-sm{
+  font-size:0.8rem;
+}
+
+.powered-by{
+  font-color:#121212
+}

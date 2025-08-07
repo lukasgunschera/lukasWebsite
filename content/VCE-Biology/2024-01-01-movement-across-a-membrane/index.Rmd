@@ -1,0 +1,282 @@
+---
+weight: 3
+title: Movement across a membrane
+author: 'Isobel Beasley'
+date: '2024-10-20'
+slug: movement-across-a-membrane
+categories: ['High school', 'VCE', 'Biology', 'Unit 1']
+tags: ['VCE', 'Plasma membranes', 'Tutoring', 'Intercellular Transport', 'Osmosis', 'Proteins']
+subtitle: 'Plasma membrane: from structure, to function'
+summary: 'The structure and function of the plasma membrane - and how they are related to each other.'
+authors: ['Isobel Beasley']
+lastmod: '2025-07-06T00:47:53+11:00'
+featured: no
+image:
+  caption: "Unlabeled diagram depicting the phospholipid bilayer of the cell membrane"
+  focal_point: 'centre'
+  preview_only: yes
+projects: []
+math: true
+meta_summary: "Explore the structure and function of the plasma membrane in this introductory lesson with hand drawn diagrams, and bespoke questions developed for VCE biology students. Learn how substances move across membranes through osmosis, facilitated diffusion, and active transport, and gain insights into the factors that influence membrane permeability.
+"
+---
+
+
+<h2 style="color:#D32F2F">
+Relevant VCAA 2022 Study Design Dot Points:    
+</h2> 
+
+<aside>
+<b> Unit 1 (Area of study 1): Cellular structure and function </b>
+<ul>
+<li>
+<i> the structure and function of the plasma membrane in the passage of water, hydrophilic and hydrophobic substances via osmosis, facilitated diffusion and active transport </i>
+</li>
+</ul>
+</aside>
+
+<b> Note: </b> 
+
+I find students often struggle to apply their knowledge in this topic area to molecules they haven't encountered before. Such students have memorised but not understood the methods of membrane transport (osmosis, facilitated diffusion, active transport, etc.). 
+
+I hope to encourage you to instead focus on understanding *why* and *when* particular substances are likely to use one particular kind of transport across the membrane - as this will let you apply your knowledge to a broader range of questions! For this reason, here I focus on the structure and function of the plasma membrane, and mostly neglect to define the kinds of membrane transport. 
+
+<br> 
+
+<h2 style="color:#D32F2F"> Introduction to Membrane Transport </h2>
+ 
+How do smaller molecules get into and out of the cell? 
+
+<img src="phospholipid_bilayer_components_diagram_unlab.svg" width="100%" alt="Unlabeled diagram depicting the phospholipid bilayer of the cell membrane">
+
+<!--
+![Unlabeled diagram depicting the phospholipid bilayer of the cell membrane](phospholipid_bilayer_components_diagram_unlab.svg)
+-->
+ 
+...Well, through the plasma membrane, of course! 
+
+But not every small molecule, across every time / context will travel through the plasma membrane in the same way. Some small molecules travel directly in between the phospholipid molecules, some travel across the membrane with a little help from a protein, others need an energy (ATP) boost to make their way into or out of the cell. 
+
+
+<details> <summary> The structure of plasma membranes are often described a ‘fluid-mosaic’. Why? </summary>
+
+<ul>
+<li>
+The membrane is fluid, that is the phospholipid bi-layer is able to move and reform 
+</li>
+<li>
+The membrane is a mosaic, that is it is comprised of many different components (e.g. interspersed within the phospholipid bi-layer are cholesterol molecules, protein channels etc.)
+</li>
+</ul> 
+</details>
+
+<br>
+<br>
+<br>
+
+
+<h2 style="color:#D32F2F"> Structure of the plasma membrane </h2>
+
+<h3> Drawing Time (~20 mins) </h3>
+
+For VCE Biology final exams or SACs you may need to draw a plasma membrane, and in particular the phospholipids which comprise most of the plasma membrane. On a piece of paper, or an electronic whiteboard, let's draw these important features together. 
+
+
+<h3> Questions to check you know how to draw the important features questions: </h3>
+
+<b> What are the important features of phospholipids to draw? </b>
+
+<details> 
+         <summary> Unlabelled diagram hint </summary>
+         
+<img src="phospholipid_unlab.svg" alt="Diagram of a phospholipid molecule, drawn as a circle attached to two parallel lines" width="20%">
+
+</details>
+
+<details> 
+         <summary> Final labelled diagram solution </summary>
+
+<img src="phospholipid_lab.svg" alt="Diagram of a phospholipid molecule, labeling the round hydrophillic head and the two hydrophobic tails" width="50%">
+
+Phospholipids need their hydrophilic head and 2 hydrophobic tails. 
+
+</details> 
+
+<br>
+<b> What might be some important features of the plasma membrane to draw? </b>
+
+<details> 
+         <summary> Unlabeled diagram hint </summary>
+  
+<img src="phospholipid_bilayer_components_diagram_unlab.svg" alt="Unlabeled diagram depicting the phospholipid bilayer of the cell membrane" width="100%"> 
+   
+</details>   
+
+<details> 
+         <summary> Final labelled diagram answer </summary>
+                  
+<img src="phospholipid_bilayer_components_diagram_lab.svg" alt="Labelled diagram depicting the phospholipid bilayer of the cell membrane. Labelled arrows point to the following components: channel protein, cholesterol, glycoprotein, phospholipid." width="120%"> 
+
+
+</details>      
+    
+<br>
+
+<br>
+         
+<br>
+
+
+
+<h2 style="color:#D32F2F"> From Structure to function </h2>
+
+
+<details> 
+        <summary> Why are these features important? </summary>
+<ul>
+<li> The tails are repelled by water (hydrophobic), so they form the distinctive *'bi-layer'* of the membrane (i.e. the two layers of phospholipids which make up the plasma membrane). </li>
+
+<li>The tails then become part of the centre of the plasma membrane - which repel hydrophilic substances.  </li>
+<li> This structure means the plasma membrane is <b> 'selectively permeable' - i.e. it regulates the movement of substances into and out of the cell. </b> </li>
+<br>
+</ul>
+</details>
+
+<details>
+    <summary> How do these features impact what is able to easily cross membranes - and what isn't? </summary>
+<ul>
+<li> Because the plasma membrane is selectively permeable, only some substances can cross the membrane with ease. Others have a more difficult time. </li>
+<li> How easy or difficult a substance finds crossing the membrane through jumping between the phospholipids is due to the <b> size of the gaps between phospholipids </b> and  <b> whether the substance is repelled by the tails </b>  </li> 
+</ul>
+<br>
+</details>
+
+<br>
+<br>
+<br>
+
+<h2 style="color:#D32F2F"> Movement Across a Membrane (~20 mins) </h2>
+
+                  
+<img src="factors_movement_membrane.svg" alt="Diagram of three arrows: two pointing upwards with labels 'Size' and 'Polarity', and one pointing downwards labeled 'Ease of movement across a membrane'. Thus, this diagram indicates that as molecules become bigger and/or more polar, the harder it becomes for them to travel across the plasma membrane." width="100%"> 
+                  
+There are three factors which impact how easily a substance is able to cross a membrane:
+
+<p> </p>
+
+<div>
+<details> 
+         <summary> <b> Size 💢 </b> </summary>
+
+- Smaller substances can fit between the gaps in phospholipids - and don't need a protein helper.
+- Big substances need a larger gap, which can be created by a protein channel or gate.
+
+</details>
+</div>
+
+<details>
+         <summary> <b> Polarity 🎣 </b> </summary>
+
+- Non-polar (hydrophobic) molecules are not repelled by the phospholipid tails - and thus don't need a protein helper.
+- Polar (hydrophilic) molecules are repelled, and need a protein helper (like a channel or gate) to shield them
+
+</details>
+<details>
+<summary> <b> Concentration Gradient 🏔️ </b> </summary>
+
+- Natures tendency is for substances to move from high to low concentrations.
+- Energy is required if we are to go in the opposite direction of nature / concentration gradient
+- Protein helpers are needed to get ATP converted to ADP + Pi at the right place and time (when going against the gradient)
+
+</details> 
+
+<p> </p>
+
+These factors, in combination, determine whether a substance can just pass directly across a membrane, or whether it needs some extra protein help. Bigger substances (e.g. proteins) or large groups of substances typically use vesicles to get into and out of the cell. 
+
+When your teacher or VCAA asks you to predict the type of transport for substance, or explain why a particular substance travels in a particular method - you need to *include all three components in your answer.* 
+
+<br>
+<br>
+<br>
+
+<h2 style="color:#D32F2F">  The Movement Equation (Test) </h2>
+
+Predict how likely a given substance is to directly cross the plasma membrane given the following equations. Explain why using the three major components impacting movement across a plasma membrane listed above. 
+
+1. Example: Nitrogen Gas
+
+$$ \text{Small size} + \text{Non-Polar} + \text{With the concentration gradient} = $$
+<details> 
+ <summary> Answer: </summary>
+  Nitrogen gas is likely to directly pass through the membrane without needing protein help, as it is small, non-polar and travelling from an area of high to low concentration (of nitrogen). 
+  
+  For reference, this process of directly travelling through the plasma membrane in the direction of the concentration gradient is called: 'simple diffusion'. 
+  
+</details>
+
+
+2. Example: Carbon Dioxide
+
+$$\text{Small Size} +  \text{Non-polar} + \text{Against the concentration gradient} = $$
+<details> 
+ <summary> Answer: </summary>
+  Even though Carbon Dioxide is small and non-polar (like in the last example) it is moving against the concentration gradient. Thus, in this example, Carbon Dioxide needs membrane transport proteins to provide the energy needed to move across the membrane (i.e. 'active transport') - so it is not directly moving across the membrane.
+  
+  Importantly: this answer would be different if Carbon Dioxide was moving with the concentration gradient (it would be simple diffusion). 
+  
+</details>
+  
+3. Example: Water
+
+$$\text{Small Size} + \text {Polar} + \text{With the concentration gradient} = $$
+<details> 
+ <summary> Answer: </summary>
+  Even though water is polar, it is small enough to pass through the membrane directly. However, this process is slow (because water is polar!), so channel proteins called aquaporins often help water across the membrane. 
+  
+  The process of water moving with the concentration gradient has a special name: osmosis. 
+  
+</details>
+
+4. Example: Ethanol
+
+$$ \text{Small Size +}\text{Mostly non-polar} + \text{With the concentration gradient} = $$
+<details> 
+ <summary> Answer: </summary>
+  Ethanol will generally pass directly through the plasma membrane (simple diffusion).
+  
+</details>
+
+
+5. Example: Protein 
+
+$$ \text{Massive size + Polar} + \text{With the concentration gradient } = $$
+
+<details> 
+ <summary> Answer: </summary>
+  Proteins are really big molecules, so regardless of whether they are moving with or against the concentration gradient, they will not move directly through the plasma membrane. Instead, proteins will tend to move in and out of cells using vesicles (through endocytosis and exocytosis respectively). 
+  
+</details>
+
+<br>
+<br>
+<br>
+
+         
+
+
+
+
+
+<h2 style="color:#D32F2F">  This lesson's TL;DR </h2>
+
+- The plasma membrane is responsible for the regulation of substances into and out of the cell (it is selectively permeable)
+- Phospholipids have a specialised structure; their structure makes it easier for small and non-polar molecules to cross the membrane, as they can directly pass through
+
+<br>
+
+# Extra Resources 
+
+## <span style="color:#D32F2F">  Douchy's VCE Biology Podcast  </span> 
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/525829G1DbWywwT2ZIV3Lv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

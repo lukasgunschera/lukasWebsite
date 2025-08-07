@@ -1,10 +1,12 @@
 ---
 # An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-active: false
 
 # This file represents a page section.
 headless: true
+
+active: false
 
 # Order that this section appears on the page.
 weight: 60
@@ -13,19 +15,19 @@ title: Recent Posts
 subtitle:
 
 content:
+  # Page type to display. E.g. post, talk, publication...
+  page_type: post
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 5
   # Filter on criteria
   filters:
-    folders:
-      - post
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
+    author: ""
+    category: ""
+    tag: ""
     exclude_featured: false
     exclude_future: false
     exclude_past: false
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 5
+    publication_type: ""
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
@@ -33,6 +35,9 @@ content:
 
 design:
   # Choose a view for the listings:
-  view: compact
-  columns: '2'
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view: 2
 ---
