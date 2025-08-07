@@ -9,7 +9,7 @@ active: false
 # Order that this section appears on the page.
 weight: 0
 
-title: "Research Experience"
+title: "Experience"
 subtitle:
 
 # Date format for experience
