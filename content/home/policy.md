@@ -10,18 +10,18 @@ headless: true
 weight: 70
 
 title: "Evidence for policy"
-subtitle:
+subtitle: "Research-driven policy recommendations and analysis"
 
 content:
-  # Page type to display. E.g. post, event, publication...
-  page_type: event
+  # Page type to display
+  page_type: policy-report
   # Choose how many pages you would like to display (0 = all pages)
   count: 3
   # Filter on criteria
   filters:
     author: ""
     category: ""
-    tag: "policy"
+    tag: ""
     exclude_featured: false
     exclude_future: false
     exclude_past: false
@@ -38,5 +38,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 3 # Card view works well for policy reports
 ---
