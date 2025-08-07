@@ -1,7 +1,7 @@
 ---
 title: Hi, I'm Lukas!
-subtitle: "PhD Student, Digital Media and Mental Health"
-subsubtitle: "University of Cambridge, MRC Cognition and Brain Sciences Unit"
+subtitle: "PhD Student at the Medical Research Council Cognition and Brain Sciences Unit"
+subsubtitle: "University of Cambridge"
 social:
   - icon: envelope
     icon_pack: fas
