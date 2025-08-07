@@ -1,4 +1,4 @@
 [[main]]
-  name = "CV"  
-  url = "cv/"  
-  weight = 70  
+name = "Curriculum Vitae"  
+ url = "cv/"  
+ weight = 70
