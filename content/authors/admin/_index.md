@@ -63,7 +63,7 @@ social:
   link: https://github.com/lukasgunschera
 - icon: cv
   icon_pack: ai
-  link: static/resume.pdf
+  link: static/media/resume.pdf
 
 ---
 
