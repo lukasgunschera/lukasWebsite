@@ -45,9 +45,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/lukasgunschera
-  - icon: researchgate
-    icon_pack: fab
-    link: https://www.researchgate.net/profile/Lukas_Gunschera
   - icon: github
     icon_pack: fab
     link: https://github.com/lukasgunschera
