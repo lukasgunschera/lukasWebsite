@@ -6,11 +6,10 @@ widget: pages
 # This file represents a page section.
 headless: true
 
-
 # Order that this section appears on the page.
 weight: 30
 
-title: 'Recent Conference Talks & Posters'
+title: "Recent Keynotes, Talks, and Conference Posters"
 subtitle:
 
 content:
