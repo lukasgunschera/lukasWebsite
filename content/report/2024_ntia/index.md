@@ -33,7 +33,7 @@ tags:
 featured: true
 
 # Links
-url_pdf: "policy-report.pdf"
+url_pdf: ""
 url_code: ""
 url_dataset: ""
 url_poster: ""
@@ -45,21 +45,15 @@ url_video: ""
 # Custom links (uncomment lines below)
 links:
   - name: Executive Summary
-    url: "/files/executive-summary.pdf"
+    url: ""
   - name: Full Report
-    url: "/files/full-report.pdf"
+    url: ""
 
 # Associated Projects (optional)
 projects: []
 
 # Slides (optional)
 slides: ""
-
-# Policy-specific fields
-policy_area: "Environmental Policy"
-target_audience: "Government Officials, Policy Makers"
-implementation_timeline: "6-12 months"
-priority_level: "High"
 ---
 
 ## Executive Summary

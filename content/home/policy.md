@@ -10,11 +10,10 @@ headless: true
 weight: 70
 
 title: "Evidence for policy"
-subtitle: "Research-driven policy recommendations and analysis"
 
 content:
   # Page type to display
-  page_type: policy-report
+  page_type: report
   # Choose how many pages you would like to display (0 = all pages)
   count: 3
   # Filter on criteria
