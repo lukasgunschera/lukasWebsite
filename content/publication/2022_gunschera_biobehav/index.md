@@ -1,21 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Social economic decision-making and psychopathy: A systematic review and meta-analysis'
-subtitle: ''
-summary: ''
+title: "Social economic decision-making and psychopathy: A systematic review and meta-analysis"
+subtitle: ""
+summary: ""
 authors:
-- L. J. Gunschera
-- I. A. Brazil
-- J. M. A. Driessen
+  - L. J. Gunschera
+  - I. A. Brazil
+  - J. M. A. Driessen
 tags:
-- Antisocial behavior
-- Psychopathy
-- Decision-making
-- Neuroeconomics
-- Cooperation
+  - Antisocial behavior
+  - Psychopathy
+  - Decision-making
+  - Neuroeconomics
+  - Cooperation
 categories: []
-date: '2022-12-01'
+date: "2022-12-01"
 lastmod: 2022-12-07T18:32:36Z
 featured: false
 draft: false
@@ -24,8 +24,8 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   preview_only: false
 
 # Projects (optional).
@@ -34,10 +34,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-12-07T18:32:36.718342Z'
+publishDate: "2022-12-07T18:32:36.718342Z"
 publication_types:
-- ''
-abstract: Psychopathy is a personality construct that encompasses a constellation
+  - ""
+abstract:
+  Psychopathy is a personality construct that encompasses a constellation
   of traits reflecting emotional dysfunction and antisocial behavior. This constellation
   has consistently been linked to poor decision-making, often focused on personal
   and monetary gains at the others’ expense. However, there remains a lack of a systematic
@@ -52,9 +53,9 @@ abstract: Psychopathy is a personality construct that encompasses a constellatio
   decision-making. These findings advance our understanding of psychopathy and open
   new avenues for research on adaptive and maladaptive social behavior in individuals
   with high levels of psychopathic traits.
-publication: '*Neuroscience & Biobehavioral Reviews*'
+publication: "*Neuroscience & Biobehavioral Reviews*"
 doi: 10.1016/j.neubiorev.2022.104966
 links:
-- name: URL
-  url: https://www.sciencedirect.com/science/article/pii/S0149763422004559
+  - name: URL
+    url: https://www.sciencedirect.com/science/article/pii/S0149763422004559
 ---
