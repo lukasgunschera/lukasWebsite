@@ -18,7 +18,6 @@
 #  url = "#publications"
 #  weight = 30
 
-
 [[main]]
   name = "Research"
   identifier = "research"
@@ -43,18 +42,12 @@
     url = "research/#talks"
     weight = 30
   
-#[[main]]
-#    name = "Submenu Item 1"
-#    parent =  "research"
-#    url = "research/submenu1/"
-#    weight = 10
-  
 [[main]]
   name = "Publications"
   url = "resources/"
-  weight = 60
+  weight = 40
 
 [[main]]
   name = "CV"
   url = "media/resume.pdf"
-  weight = 70
+  weight = 50
