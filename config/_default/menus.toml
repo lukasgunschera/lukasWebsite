@@ -44,7 +44,7 @@
   
 [[main]]
   name = "Policy"
-  url = "policy/"
+  url = "#policy"
   weight = 40
 
 [[main]]
