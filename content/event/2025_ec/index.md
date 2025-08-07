@@ -32,8 +32,8 @@ location: "European Commission"
 slides:
 summary: "Oral Presentation"
 meta_summary: "Delivered an oral presentation at the European Commission VirtueS Seminar series on virtual worlds and well-being. The presentation is based on a policy report written with Georgia Turner and Amy Orben."
-tags: ["policy", "digital media", "measurement", "regulation"]
-title: "Building on Lessons from Research on Digital Media and Mental Health"
+tags: ["policy", "digital media", "measurement", "regulation", "featured"]
+title: "Addressing gaps in digital media research: Pathways for future science and policy"
 
 url: "/talk/2025_ecjrc/"
 url_code: ""
