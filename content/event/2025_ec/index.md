@@ -12,7 +12,7 @@ all_day: true
 authors: ["Lukas Gunschera", "Georgia Turner"]
 date: "2025-03-05T15:00:00Z"
 date_end: ""
-event: "Building on Lessons from Research on Digital Media and Mental Health"
+event: "Building on lessons from research on digital media and mental health"
 event_url: https://joint-research-centre.ec.europa.eu/seminar-series-virtual-worlds-and-well-being-setting-research-agenda/virtues-seminar-building-lessons-research-digital-media-and-mental-health-2025-03-05_en?prefLang=da
 
 featured: false
