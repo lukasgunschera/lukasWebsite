@@ -6,9 +6,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:lg702[at]cam[dot]ac[dot]uk
-  - icon: bluesky
-    icon_pack: fab
-    link: https://bsky.app/profile/lukasgunschera.bsky.social
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/lukasgunschera
@@ -21,6 +18,12 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/lukasgunschera
+  - icon: bluesky
+    icon_pack: fab
+    link: https://bsky.app/profile/lukasgunschera.bsky.social
+  - icon: cv
+    icon_pack: ai
+    link: media/resume.pdf
 
 meta_summary: "Lukas Gunschera: PhD Student at the Medical Research Council Cognition and Brain Sciences Unit, University of Cambridge."
 ---
