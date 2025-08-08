@@ -30,9 +30,6 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
-  show_summary: true
-  # Show institution in subtitle
-  show_subtitle: true
 
 design:
   # Choose a view for the listings:
@@ -41,4 +38,8 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
+  # Show summary/excerpt
+  show_summary: true
+  # Show institution in subtitle
+  show_subtitle: true
 ---
