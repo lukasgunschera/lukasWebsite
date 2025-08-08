@@ -1,6 +1,6 @@
 ---
 title: "Written evidence for initiative to protect youth mental health, safety, and privacy online"
-subtitle: "US Department of Commerce: National Telecommunications and Information Administration"
+subtitle: "US National Telecommunications and Information Administration"
 
 # Authors
 authors:
