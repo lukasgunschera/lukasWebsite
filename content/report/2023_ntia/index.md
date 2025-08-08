@@ -1,6 +1,6 @@
 ---
-title: "US Department of Commerce, National Telecommunications and Information Administration: Initiative to protect youth mental health, safety, and privacy online"
-subtitle: "Report"
+title: "Report for US Department of Commerce National Telecommunications and Information Administration"
+subtitle: "Initiative to protect youth mental health, safety, and privacy online"
 
 # Authors
 authors:
