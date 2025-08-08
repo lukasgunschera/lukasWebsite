@@ -16,19 +16,17 @@ event: "Cognitive phenotypes of social media risk and resilience"
 event_url: https://jacobsfoundation.org/connecting-the-edtech-research-ecosystem-ceres/
 
 featured: false
-image:
-  caption:
-  alt_text:
-  placement: 2
-  focal_point: smart
-  preview_only: true
-location: "Jacobs Foundation (CERES)"
+links:
+  - icon: file-pdf
+    icon_pack: far
+    name: "Poster"
+    url: media/event/2025_cp_poster.pdf
+location: "Computational Psychiatry Conference"
 
 slides:
-summary: "Oral Presentation"
-meta_summary: "Gave a presentation to Michelle Achterberg's SO-REBEL and Eveline Crone's SYNC labs on the cognitive processes linking social media use and mental health. Specifically, this research involves computational and longitudinal modeling of social media use, mental health, and individual differneces in cognitive processes across adolescence."
-tags: ["presentation", "digital media", "longitudinal", "cognition"]
-title: "Cognitive phenotypes of social media risk and resilience"
+summary: "Poster Presentation"
+meta_summary: "Presented a poster on the longitudinal trajectories between social media use and mental health, and the extent to which these are shaped by individual differences in cognitive processes."
+tags: ["poster", "digital media", "longitudinal", "cognition", "featured"]
 
 url: "/talk/2024_er/"
 url_code: ""

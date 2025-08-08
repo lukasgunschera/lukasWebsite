@@ -10,6 +10,7 @@ headless: true
 weight: 70
 
 title: "Evidence for policy"
+highlight_name: true
 
 content:
   # Page type to display
@@ -25,7 +26,7 @@ content:
     exclude_future: false
     exclude_past: false
     publication_type: ""
-    featured_only: true
+    featured_only: false
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.

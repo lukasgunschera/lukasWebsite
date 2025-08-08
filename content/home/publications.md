@@ -11,6 +11,7 @@ weight: 40
 
 title: Selected publications
 subtitle: ""
+highlight_name: true
 
 content:
   # Page type to display. E.g. post, talk, publication...

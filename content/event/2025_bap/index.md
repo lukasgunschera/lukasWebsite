@@ -24,7 +24,7 @@ date_end: ""
 event: "Assessing social media use using a cognitive-behavioural marker of addiction"
 event_url: https://www.bap.org.uk/
 
-featured: false
+featured: true
 image:
   caption:
   alt_text:
