@@ -1,6 +1,6 @@
 ---
 title: "US Department of Commerce, National Telecommunications and Information Administration: Initiative to protect youth mental health, safety, and privacy online"
-subtitle: "Docket No. 230926-0233"
+subtitle: "Report"
 
 # Authors
 authors:
@@ -13,8 +13,9 @@ date: "2023-08-15T00:00:00Z"
 
 tags:
   - policy
-  - digital media
   - regulation
+  - digital media
+  - mental health
 
 # Is this a featured policy report?
 featured: true
