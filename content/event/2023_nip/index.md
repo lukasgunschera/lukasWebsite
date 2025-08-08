@@ -26,7 +26,7 @@ location: "Netherlands Institute of Psychologists"
 
 slides:
 summary: "Keynote"
-meta_summary: "Gave a keynote at the Netherlands Institute of Psychologist annual meeting of psychiatrists on current theories of psychopathy with a focus on recent evidence evaluating the Impaired Integration theory in particular. The presentation covered work which received the Netherlands Institute for Psychologists thesis award."
+meta_summary: "Gave a keynote at the Netherlands Institute of Psychologist annual meeting of psychiatrists on current theories of psychopathy with a focus on recent evidence evaluating the Impaired Integration theory in particular. The presentation covered work which received the Netherlands Institute of Psychologists thesis award."
 tags: ["keynote", "psychopathy", "theory", "cognition"]
 title: "Do psychopaths suffer from impaired information integration?"
 

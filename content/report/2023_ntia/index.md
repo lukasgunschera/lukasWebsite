@@ -42,7 +42,7 @@ projects: []
 slides: ""
 ---
 
-In this policy report we highlight that social media's effects on youth mental health are individualized and context-dependent, challenging oversimplified approaches that focus solely on reducing screen time. The report references the "digital diet" framework, recognising that the nature of the digital experiences are more important than the amount consumed alone. We also highlight critical research limitations following from restricted access to social media data and call for legislative intervention to enable independent research, nuanced age-appropriate regulations, and adaptive policies that treat digital governance as an evolving process requiring regular scrutiny rather than one-time interventions.
+In this policy report we highlight that social media's effects on youth mental health are individualised and context-dependent, challenging oversimplified approaches that focus solely on reducing screen time. The report references the "digital diet" framework, recognising that the nature of the digital experiences are more important than the amount consumed alone. We also highlight critical research limitations following from restricted access to social media data and call for legislative intervention to enable independent research, nuanced age-appropriate regulations, and adaptive policies that treat digital governance as an evolving process requiring regular scrutiny rather than one-time interventions.
 
 ## Key Findings
 
