@@ -1,6 +1,6 @@
 ---
-title: "Written evidence for initiative to protect youth mental health, safety, and privacy online"
-subtitle: "US Department of Commerce: National Telecommunications and Information Administration"
+title: "US Department of Commerce, National Telecommunications and Information Administration: Initiative to protect youth mental health, safety, and privacy online"
+subtitle: "Docket No. 230926-0233"
 
 # Authors
 authors:
@@ -24,7 +24,7 @@ url_pdf: "media/report/2023_ntia.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
-url_project: ""
+url_project: "https://www.govinfo.gov/content/pkg/FR-2023-10-02/pdf/2023-21606.pdf"
 url_slides: ""
 url_source: ""
 url_video: ""
