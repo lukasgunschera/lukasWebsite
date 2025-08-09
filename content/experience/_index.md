@@ -1,7 +1,7 @@
 ---
 title: "Experience"
 subtitle: ""
-type: "page"
+type: "widget-page"
 
 # Date format
 date_format: Jan 2006
