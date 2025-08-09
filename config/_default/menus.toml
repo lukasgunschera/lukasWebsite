@@ -41,12 +41,6 @@
     parent =  "research"
     url = "research/#talks"
     weight = 30
-
-[[main]]
-    name = "Experience"
-    identifier = "experience"
-    url = "experience/"
-    weight = 50
   
 [[main]]
   name = "Policy"
