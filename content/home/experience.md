@@ -5,7 +5,7 @@ widget: experience
 
 # This file represents a page section.
 headless: true
-active: true
+active: false
 # Order that this section appears on the page.
 weight: 0
 
@@ -28,10 +28,6 @@ experience:
     company_logo: "cam"
     location: Cambridge
     date_start: "2023-10-01"
-    description: |2-
-        - Mechanisms linking social media use and mental health
-        - Social media and addiction
-        - Computational neuroscience
 
   - title: Research Assistant
     company: University of Cambridge, MRC Cognition and Brain Sciences Unit
@@ -40,9 +36,6 @@ experience:
     location: Cambridge
     date_start: "2022-10-01"
     date_end: "2023-09-30"
-    description: |2-
-        - Social media use and mental health
-        - Reinforcement learning and social media
 
   - title: Research Assistant
     company: University of Oxford
@@ -51,9 +44,6 @@ experience:
     location: Oxford
     date_start: "2021-11-15"
     date_end: "2022-10-31"
-    description: |2-
-        - Cognitive correlates of psychopathic personality traits
-        - Associative learning deficits implicated in psychopathy
 
   - title: Teaching Assistant
     company: University of Amsterdam
@@ -71,22 +61,8 @@ experience:
     company_url: "http://www.habitlab.nl"
     company_logo: "uva"
     location: Habit Lab
-    date_start: "2021-07-01"
-    date_end: "2022-10-31"
-    description: |2-
-        - Psychological processes underlying the formation of habits
-        - Long-term development of habits
-
-  - title: Research Assistant & Intern
-    company: University of Amsterdam
-    company_url: "https://www.researchgate.net/lab/LieLab-Bruno-Verschuere"
-    company_logo: "uva"
-    location: Lie Lab
     date_start: "2021-01-01"
-    date_end: "2021-12-31"
-    description: |2-
-        - Detection of deception by means of heuristic cues
-        - Classification performance in the concealed information test
+    date_end: "2022-12-31"
 
   - title: Research Intern
     company: University of Oxford
@@ -95,20 +71,14 @@ experience:
     location: Ocean Lab
     date_start: "2019-11-01"
     date_end: "2019-12-15"
-    description: |2-
-        - Impaired Integration and psychopathic traits
-        - Attentional bottleneck model of psychopathy
 
   - title: Research Intern
     company: Radboud University
     company_url: "https://www.ru.nl/en"
     company_logo: "rad"
-    location: SAMBA Group
+    location: Systems Approach to Maladaptive Behaviour & Antisociality Group
     date_start: "2018-10-01"
     date_end: "2019-12-31"
-    description: |2-
-        - Moral decision-making of psychopathic individuals
-        - Computational modelling of decision-making
 
 design:
   columns: "8"
