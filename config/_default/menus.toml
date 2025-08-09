@@ -45,7 +45,7 @@
 [[main]]
     name = "Experience"
     identifier = "experience"
-    url = "#experience"
+    url = "experience"
     weight = 50
   
 [[main]]
