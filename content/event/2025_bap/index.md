@@ -41,7 +41,7 @@ location: "British Association for Psychopharmacology Conference"
 slides:
 summary: "Poster Presentation"
 meta_summary: "Presented a poster assessing incentive-sensitisation for social media rewards, to examine cognitive correlates of addiction in the context of social media use."
-tags: ["poster", "digital media", "addiction", "cognition"]
+tags: ["poster", "digital media", "addiction", "cognition", "featured"]
 title: "Assessing social media use using a cognitive-behavioural marker of addiction"
 
 url: "/talk/2025_br/"
