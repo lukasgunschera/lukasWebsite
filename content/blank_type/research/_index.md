@@ -6,7 +6,7 @@ social:
     link: mailto:lg702[at]cam[dot]ac[dot]uk
   - icon: bluesky
     icon_pack: fab
-    link: https://bsky.app/profile/lukasgunschera.bsky.social
+    link: https://bsky.app/profile/lukasgunschera.com
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/lukasgunschera

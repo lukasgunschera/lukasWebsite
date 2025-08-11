@@ -20,7 +20,7 @@ social:
     link: https://github.com/lukasgunschera
   - icon: bluesky
     icon_pack: fab
-    link: https://bsky.app/profile/lukasgunschera.bsky.social
+    link: https://bsky.app/profile/lukasgunschera.com
   - icon: cv
     icon_pack: ai
     link: media/resume.pdf
