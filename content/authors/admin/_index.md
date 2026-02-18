@@ -15,7 +15,7 @@ organizations:
 - name: MRC Cognition and Brain Sciences Unit
   url: https://www.mrc-cbu.cam.ac.uk/
 
-bio: I am a PhD student at the MRC Cognition and Brain Sciences Unit at the University of Cambridge. I am particularly interested in the cognitive and social mechanisms that underlie engagement and outcomes of social media use. My research uses a combination of longitudinal and computational approaches to examining the (cognitive) mechanisms implicated in social media use and mental health. I have a background in methodology and statistics and focus on conducting open and reproducible research. 
+bio: I am a PhD Student at the MRC Cognition and Brain Sciences Unit at the University of Cambridge. I am interested in whether the popular framing of social media as addictive reflects genuine mechanistic similarity with established addictions — and examine the utility of the medical addiction model in the context of problematic social media use. My research uses longitudinal, experimental, and psychopharmacological approaches to probe the mechanisms driving problematic social media use. I aim to contribute to evidence-based policy on social media and digital health. I have a background in methodology and statistics and focus on conducting open and reproducible research. Please reach out to discuss potential collaborations.
 
 interests:
 - Open, reproducible, and transparent research
@@ -67,4 +67,4 @@ social:
 
 ---
 
-I am a PhD student at the MRC Cognition and Brain Sciences Unit at the University of Cambridge. I am particularly interested in the cognitive and social mechanisms that underlie engagement and outcomes of social media use. My research uses a combination of longitudinal and computational approaches to examining the (cognitive) mechanisms implicated in social media use and mental health. I have a background in methodology and statistics and focus on conducting open and reproducible research.
+I am a PhD Student at the MRC Cognition and Brain Sciences Unit at the University of Cambridge. I am interested in whether the popular framing of social media as addictive reflects genuine mechanistic similarity with established addictions — and examine the utility of the medical addiction model in the context of problematic social media use. My research uses longitudinal, experimental, and psychopharmacological approaches to probe the mechanisms driving problematic social media use. I aim to contribute to evidence-based policy on social media and digital health. I have a background in methodology and statistics and focus on conducting open and reproducible research. Please reach out to discuss potential collaborations.
