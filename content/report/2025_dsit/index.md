@@ -1,6 +1,6 @@
 ---
-title: "Feasibility study of methods and data to understand the impact of smartphones and social media on children and young people"
-subtitle: "Department for Science, Innovation, & Technology Commissioned Research Report"
+title: "Commissioned report for the UK Department of Science, Innovation & Technology"
+subtitle: "Feasibility study of methods and data to understand the impact of smartphones and social media on children and young people"
 
 # Authors
 authors:
@@ -36,7 +36,7 @@ tags:
 featured: true
 
 # Links
-url_pdf: "media/report/2023_ntia.pdf"
+url_pdf: "media/report/2025_dsit.pdf"
 url_code: ""
 url_dataset: ""
 url_poster: ""
@@ -56,10 +56,6 @@ projects: []
 # Slides (optional)
 slides: ""
 ---
-
-There is growing concern about the risks digital technologies, particularly social media, smartphones and Artificial Intelligence (AI), may pose to individual children and adolescents, including severe outcomes such as sexual exploitation, bullying-related distress and premature death. These individual-level harms require urgent attention from research, industry and policy.
-
-Beyond these individual-level impacts, it is also important to understand the average impact of such technologies across the entire population of children and young people, in order to help inform policy choices that will impact them collectively. While our public and policy discourse often conflates individual- and population-level impacts, it is important to treat them as distinct when evaluating current research. DSIT therefore commissioned this report to specifically explore how research of the causal relationship between digital technology use and population-level child and adolescent developmental outcomes can be improved.
 
 This report is the product of a Scientific Consortium comprising 14 leading UK scholars, who collaborated to synthesise existing evidence on population-level impacts of social media, smartphones and AI, review current research funding in this area, and recommend strategic research projects for strengthening the causal evidence base over the next two to three years.
 
