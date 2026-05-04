@@ -12,7 +12,6 @@ HUGO_VERSION = "0.80.0"
   [plugins.inputs]
     attribute = "false"
 
-
 [[plugins]]
   package = "netlify-plugin-inline-critical-css"
 
