@@ -30,11 +30,6 @@ url_slides: ""
 url_source: ""
 url_video: ""
 
-# Custom links (uncomment lines below)
-#links:
-#  - name: Full Report
-#    url: "https://downloads.regulations.gov/NTIA-2023-0008-0175/attachment_1.pdf"
-
 # Associated Projects (optional)
 projects: []
 
