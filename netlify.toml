@@ -6,6 +6,12 @@ command = "hugo -b https://lukasgunschera.com --buildFuture && cp _redirects.txt
 [build.environment]
 HUGO_VERSION = "0.80.0"
 
+[functions]
+  node_bundler = "esbuild"
+
+[edge_functions]
+  external_modules = ["@netlify/blobs"]
+
 [[plugins]]
   package = "netlify-plugin-inline-source"
   
