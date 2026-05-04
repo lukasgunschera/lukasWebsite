@@ -3,23 +3,15 @@ publish = "public"
 command = "hugo -b https://lukasgunschera.com --buildFuture && cp _redirects.txt /opt/build/repo/public/_redirects && mv robots_prod.txt /opt/build/repo/public/robots.txt"
 #command = "hugo -b $DEPLOY_PRIME_URL --buildFuture && cp _redirects.txt /opt/build/repo/public/_redirects && mv robots_prod.txt /opt/build/repo/public/robots.txt"
 
-[build]
-  ignore_node_modules_for_edge_functions = false
-
 [build.environment]
 HUGO_VERSION = "0.80.0"
-
-[build.environment]
-  DENO_FLAGS = "--allow-env"
-
-[functions]
-  node_bundler = "esbuild"
 
 [[plugins]]
   package = "netlify-plugin-inline-source"
   
   [plugins.inputs]
     attribute = "false"
+
 
 [[plugins]]
   package = "netlify-plugin-inline-critical-css"
