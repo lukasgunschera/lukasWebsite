@@ -1,13 +1,6 @@
-**.Rproj.user/
-**.Rproj.user/*
-*.Rhistory
-*public
-*.hugo_build.lock
+# macOS and editor files
+.DS_Store
+**/.DS_Store
+.Rproj.user/
+.Rhistory
 .RData
-.Ruserdata
-.Rproj.user
-**content/things_for_me_only/*
-**resources/_gen/images/things_for_me_only/
-**resources/_gen/
-**.Rprofile
-**themes/starter-academic/exampleSite/resources/

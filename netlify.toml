@@ -1,7 +1,9 @@
-# Plain static site: no build step. Netlify serves these files as they are.
+# Plain static site: there is nothing to build.
+# The command below must stay: if it is empty, Netlify falls back to the old Hugo
+# build command saved in the site settings, and the deploy fails.
 [build]
   publish = "."
-  command = ""
+  command = "echo 'Static site: no build step needed'"
 
 [[headers]]
   for = "/content/*"
