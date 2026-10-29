@@ -84,7 +84,7 @@ function isDoi(s){ return /^(https?:\/\/(dx\.)?doi\.org\/)?10\./i.test(String(s 
 function ndoi(d){ return String(d || "").toLowerCase().trim().replace(/^https?:\/\/(dx\.)?doi\.org\//, "").replace(/^doi:\s*/, "").replace(/_v\d+$/, ""); }
 function isPub(w){ return w.status === "published"; }
 function href(w){ return w.doi ? "https://doi.org/" + w.doi : resolve(w.url); }
-function strip(a){ return a.replace(/\*+$/, ""); }
+function strip(a){ return a.replace(/[*†][*†,]*$/, ""); }   /* author markers: * equal contribution, ** shared senior, *,** both */
 
 function buildPubs(text){
   P.orcid = ""; P.hidden = []; P.featured = [];
@@ -205,7 +205,7 @@ function syncOpenAlex(){
 
 function yearText(w){ return w.year ? String(w.year) : (w.status === "under review" ? "under review" : "n.d."); }
 function authorsHTML(a){
-  var out = a.map(function(x){ var m = (x.match(/\*+$/) || [""])[0], n = strip(x);
+  var out = a.map(function(x){ var m = (x.match(/[*†][*†,]*$/) || [""])[0], n = strip(x);
     return (/gunschera/i.test(n) ? "<b>" + esc(n) + "</b>" : esc(n)) + (m ? "<sup>" + m + "</sup>" : ""); });
   if (out.length > 1) out[out.length - 1] = "&amp; " + out[out.length - 1];
   return out.join(", ");

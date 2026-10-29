@@ -4,7 +4,7 @@
 #   Status | Year | Authors (separated by ;) | Title | Journal or preprint server | DOI or link | Note (optional)
 #
 # Status is one of: published, preprint, under review
-# Add ** after a name for shared senior authorship, or * for equal contribution.
+# Add ** after a name for shared senior authorship, * for equal contribution, or *,** for both.
 # To hide any paper, add a line:   hide | its DOI or its exact title
 # To show a paper on the home page under "Selected publications and preprints", add a line:
 #   feature | its DOI or its exact title
@@ -28,7 +28,7 @@ published | 2023 | Gunschera, L. J.; Verschuere, B.; Murphy, R.; Temple-McCune, 
 published | 2022 | Gunschera, L. J.; Brazil, I. A.; Driessen, J. M. A. | Social economic decision-making and psychopathy: A systematic review and meta-analysis | Neuroscience & Biobehavioral Reviews | 10.1016/j.neubiorev.2022.104966 |
 
 under review | | Gunschera, L. J.; Adjallah, J.; Fokas, I.; Mackie, G.; Hickman Dunne, J.; Roe, A.; Davies, J.; Nord, C. L.**; Panayiotou, M.**; Orben, A.** | Aligning how we measure and support social media addiction with young people's lived experience | PsyArXiv | 10.31234/osf.io/wahf5_v1 |
-under review | | Gunschera, L. J.*; Orben, A.*; Fokas, I.*; …; Purba, A. K.**; Orben, A.** | Addressing the absence of robust causal evidence linking social media to population-level adolescent mental health declines | | |
+under review | | Gunschera, L. J.*; Orben, A.*,**; Fokas, I.*; Davidson, B. C.; Richards, M.; Yap, Z. Y.; Davis, O. S. P.; Ellis, D. A.; Goodyear, V.; Haworth, C. M. A.; Hollis, C.; Joinson, A.; Katikireddi, S. V.; Livingstone, S.; Panayiotou, M.; Townsend, E.; Purba, A. K.** | Addressing the absence of robust causal evidence linking social media to population-level adolescent mental health declines | | |
 under review | | Gunschera, L. J.; Mehrhof, S. Z.; Veith, C.; Ong, E.; Davidson, B. C.; Vuorre, M.; Nord, C. L.**; Orben, A.** | Does social media use show established neurocognitive signatures of addiction? | PsyArXiv | 10.31234/osf.io/2eqs8_v1 |
 under review | | Panayiotou, M.; Banwell, E.; Black, L.; Hickman Dunne, J.; Davies, J.; Hamilton, S.; Davidson, B.; Gunschera, L. J.; Andersen, A. I. O.; Finserås, T. R. | From motivation to experience: Blurred boundaries in the measurement of adolescent social media engagement | | |
 under review | | Davidson, B. C.; Turner, G.; Gunschera, L. J.; Orben, A. | Social media reward sensitivity and depressive symptoms over time | PsyArXiv | 10.31234/osf.io/8e3ar_v1 |
