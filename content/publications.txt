@@ -9,9 +9,9 @@
 
 orcid | 0000-0002-8241-0833
 hide | Feasibility Study of Methods and Data to Understand the Impact of Smartphones and Social Media on Children and Young People
-hide | Addressing Gaps in Digital Media Research: Pathways for Future Science and Policy
 hide | Neuroscience and digital childhoods inquiry
 hide | 10.2760/7811534
+hide | Addressing the absence of robust causal evidence linking social media to population-level adolescent mental health declines
 
 published | 2026 | Turner, G.; Gunschera, L. J.; Subrahmanya, S.; Salecha, A.; Eichstaedt, J. C.; Palminteri, S.; Orben, A. | A computational model of reward learning and habits on social media | Nature Communications | 10.1038/s41467-026-73547-6 |
 published | 2026 | Ferguson, A. M.; Richards, M.; Gunschera, L. J.; Mutak, A.; Modecki, K.; Goldberg, R. E.; Orben, A. | Development and validation of a comprehensive digital parenting scale | Computers in Human Behavior Reports | 10.1016/j.chbr.2026.101098 |
@@ -29,5 +29,4 @@ under review | | Davidson, B. C.; Turner, G.; Palminteri, S.; Tomova, L.; Eichst
 under review | | Turner, G.; Valdez, C.; Gunschera, L. J.*; Anderson, I.*; Brufal, Z.*; Dillmann, S.*; Fassi, L.*; Monarca, I.*; Ramirez, O. P.*; Tentori, M.; Orben, A. | Relating smartphone ‘app-journeys’ to mental health: A novel network analysis approach | PsyArXiv | 10.31234/osf.io/uytfr_v1 |
 under review | | Gunschera, L. J.; Achterberg, M.; Speyer, L. G.; Wise, T.; Orben, A. | Towards identifying cognitive phenotypes of risk and resilience for social media and mental health | PsyArXiv | 10.31234/osf.io/bgqyj_v1 |
 under review | | de Wit, S.; Bieleke, M.; Fletcher, P. C.; Horstmann, A.; Schueler, J.; Brinkhof, L. P.; Gunschera, L. J.; Murre, J. M. J. | How long does it take to form a habit? A multi-centre replication | Peer Community in Registered Reports | https://rr.peercommunityin.org/PCIRegisteredReports/articles/rec?id=210 | Stage 1 in-principle acceptance
-
-preprint | 2026 | van Timmeren, T.; Dano, J.; Moustaka, M. J.; Gunschera, L. J.; de Wit, S. | Slips of action in everyday life: Capturing habitual smartphone checking with a decoy app paradigm | PsyArXiv | 10.31234/osf.io/nuzg4_v2 |
+under review | | van Timmeren, T.; Dano, J.; Moustaka, M. J.; Gunschera, L. J.; de Wit, S. | Slips of action in everyday life: Capturing habitual smartphone checking with a decoy app paradigm | PsyArXiv | 10.31234/osf.io/nuzg4_v2 |
