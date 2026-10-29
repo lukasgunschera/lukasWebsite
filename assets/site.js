@@ -87,20 +87,32 @@ function href(w){ return w.doi ? "https://doi.org/" + w.doi : resolve(w.url); }
 function strip(a){ return a.replace(/\*+$/, ""); }
 
 function buildPubs(text){
-  P.orcid = ""; P.hidden = [];
+  P.orcid = ""; P.hidden = []; P.featured = [];
   var list = [];
   allRows(text).forEach(function(r, i){
     var k = (r[0] || "").toLowerCase();
     if (k === "orcid") { P.orcid = r[1] || ""; return; }
     if (k === "hide") { P.hidden.push(isDoi(r[1]) ? ndoi(r[1]) : tkey(r[1])); return; }
+    if (k === "feature" || k === "featured") { if (r[1]) P.featured.push(isDoi(r[1]) ? ndoi(r[1]) : tkey(r[1])); return; }
     var loc = r[5] || "";
     list.push({status: k || "published", year: r[1] || "", authors: (r[2] || "").split(";").map(function(a){ return a.trim(); }).filter(Boolean),
       title: r[3] || "", venue: r[4] || "", doi: isDoi(loc) ? loc.replace(/^https?:\/\/(dx\.)?doi\.org\//i, "") : "",
       url: isDoi(loc) ? "" : loc, note: r[6] || "", order: i});
   });
-  P.list = list;
   if (P.oa) P.added = merge(list, P.oa.results);
+  list = list.filter(function(w){ return !matches(w, P.hidden); });    /* "hide" applies to every entry */
+  P.list = list;
   return list;
+}
+function matches(w, keys){ return keys.some(function(k){ return (w.doi && ndoi(w.doi) === k) || tkey(w.title) === k; }); }
+/* Papers chosen with "feature | DOI or title" lines, in the order they are listed */
+function featuredPubs(){
+  var out = [];
+  P.featured.forEach(function(k){
+    var w = P.list.filter(function(x){ return matches(x, [k]); })[0];
+    if (w && out.indexOf(w) < 0) out.push(w);
+  });
+  return out;
 }
 
 var KEEP = {"article":1, "preprint":1, "review":1, "book-chapter":1, "letter":1};
@@ -253,13 +265,18 @@ R.home = function(){
   var interests = secs.filter(function(s){ return /interest/i.test(s.title); })[0];
   $("interests").innerHTML = interests ? interests.rows.map(function(r){ return "<li>" + esc(r[0]) + "</li>"; }).join("") : "";
 
-  var pubs = buildPubs(texts.publications).filter(function(w){ return w.year; }).sort(sortPubs).slice(0, 3);
+  buildPubs(texts.publications);
+  var picked = featuredPubs();
+  var pubs = picked.length ? picked : P.list.filter(function(w){ return w.year; }).sort(sortPubs).slice(0, 3);
   var talks = allRows(texts.talks).slice(0, 3);
   $("home-lists").innerHTML =
-    '<section class="sec"><h2 class="sec-head">Latest publications<a href="' + esc(pageHref("publications")) + '">All publications →</a></h2><ul class="home-list">' +
+    '<section class="sec"><h2 class="sec-head">' + (picked.length ? "Selected publications and preprints" : "Latest publications") +
+      '<a href="' + esc(pageHref("publications")) + '">All publications →</a></h2><ul class="home-list">' +
       pubs.map(function(w){ var h = href(w);
-        return '<li><span class="when">' + esc(w.year) + '</span><div><p class="e-title">' + (h ? '<a href="' + esc(h) + '">' + esc(w.title) + "</a>" : esc(w.title)) +
-          (w.status === "preprint" ? '<span class="tag">Preprint</span>' : "") + '</p><p class="e-details"><i>' + esc(w.venue) + "</i></p></div></li>"; }).join("") +
+        var tag = w.status === "preprint" ? '<span class="tag">Preprint</span>' : "";   /* "In review" already shows in the date column */
+        return '<li><span class="when">' + esc(w.year || "In review") + '</span><div><p class="e-title">' + (h ? '<a href="' + esc(h) + '">' + esc(w.title) + "</a>" : esc(w.title)) + tag + "</p>" +
+          '<p class="e-details">' + authorsHTML(w.authors) + "</p>" +
+          (w.venue ? '<p class="e-details"><i>' + esc(w.venue) + "</i></p>" : "") + "</div></li>"; }).join("") +
     '</ul></section><section class="sec"><h2 class="sec-head">Recent talks<a href="' + esc(pageHref("talks")) + '">All talks →</a></h2><ul class="home-list">' +
       talks.map(function(r){ return entryHTML(r); }).join("") + "</ul></section>";
   syncOpenAlex();

@@ -5,9 +5,17 @@
 #
 # Status is one of: published, preprint, under review
 # Add ** after a name for shared senior authorship, or * for equal contribution.
-# To hide a paper that was added automatically by mistake, add a line:   hide | its DOI or its exact title
+# To hide any paper, add a line:   hide | its DOI or its exact title
+# To show a paper on the home page under "Selected publications and preprints", add a line:
+#   feature | its DOI or its exact title
+# Featured papers appear in the order of these lines. With no feature lines, the home page shows the latest three.
 
 orcid | 0000-0002-8241-0833
+
+feature | 10.1038/s41467-026-73547-6
+feature | 10.31234/osf.io/2eqs8_v1
+feature | 10.31234/osf.io/wahf5_v1
+
 hide | Feasibility Study of Methods and Data to Understand the Impact of Smartphones and Social Media on Children and Young People
 hide | Neuroscience and digital childhoods inquiry
 hide | 10.2760/7811534
