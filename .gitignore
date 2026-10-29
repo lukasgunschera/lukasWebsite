@@ -1,3 +1,9 @@
+# Created by Netlify during each deploy; not stored in the repository
+public/
+
+# Files Claude sent you; keep them out of the website
+Claude outputs/
+
 # macOS and editor files
 .DS_Store
 **/.DS_Store

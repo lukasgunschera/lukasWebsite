@@ -1,9 +1,11 @@
-# Plain static site: there is nothing to build.
-# The command below must stay: if it is empty, Netlify falls back to the old Hugo
-# build command saved in the site settings, and the deploy fails.
+# This site has no build step. Netlify copies the website files into a folder
+# called "public" and publishes that folder (the folder name matches the
+# "Publish directory" in the Netlify dashboard).
+# Keep both lines below as they are: if the command is empty or "publish" points
+# somewhere else, Netlify falls back to the old Hugo settings and the deploy fails.
 [build]
-  publish = "."
-  command = "echo 'Static site: no build step needed'"
+  publish = "public"
+  command = "rm -rf public && mkdir public && cp *.html _redirects robots.txt sitemap.xml public/ && cp -R assets content media public/"
 
 [[headers]]
   for = "/content/*"
