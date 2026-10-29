@@ -19,7 +19,6 @@ feature | 10.31234/osf.io/wahf5_v1
 hide | Feasibility Study of Methods and Data to Understand the Impact of Smartphones and Social Media on Children and Young People
 hide | Neuroscience and digital childhoods inquiry
 hide | 10.2760/7811534
-hide | Addressing the absence of robust causal evidence linking social media to population-level adolescent mental health declines
 
 published | 2026 | Turner, G.; Gunschera, L. J.; Subrahmanya, S.; Salecha, A.; Eichstaedt, J. C.; Palminteri, S.; Orben, A. | A computational model of reward learning and habits on social media | Nature Communications | 10.1038/s41467-026-73547-6 |
 published | 2026 | Ferguson, A. M.; Richards, M.; Gunschera, L. J.; Mutak, A.; Modecki, K.; Goldberg, R. E.; Orben, A. | Development and validation of a comprehensive digital parenting scale | Computers in Human Behavior Reports | 10.1016/j.chbr.2026.101098 |
