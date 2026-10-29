@@ -1,3 +1,0 @@
-# Redirect home to root
-https://lukasgunschera.com/home/ https://lukasgunschera.com/ 301!
-

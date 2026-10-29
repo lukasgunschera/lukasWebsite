@@ -1,0 +1,33 @@
+# PUBLICATIONS. New papers are added automatically from OpenAlex using the ORCID below,
+# so you rarely need to edit this file. Use it to fix how a paper looks, or to add one that is missing.
+#
+#   Status | Year | Authors (separated by ;) | Title | Journal or preprint server | DOI or link | Note (optional)
+#
+# Status is one of: published, preprint, under review
+# Add ** after a name for shared senior authorship, or * for equal contribution.
+# To hide a paper that was added automatically by mistake, add a line:   hide | its DOI or its exact title
+
+orcid | 0000-0002-8241-0833
+hide | Feasibility Study of Methods and Data to Understand the Impact of Smartphones and Social Media on Children and Young People
+hide | Addressing Gaps in Digital Media Research: Pathways for Future Science and Policy
+hide | Neuroscience and digital childhoods inquiry
+hide | 10.2760/7811534
+
+published | 2026 | Turner, G.; Gunschera, L. J.; Subrahmanya, S.; Salecha, A.; Eichstaedt, J. C.; Palminteri, S.; Orben, A. | A computational model of reward learning and habits on social media | Nature Communications | 10.1038/s41467-026-73547-6 |
+published | 2026 | Ferguson, A. M.; Richards, M.; Gunschera, L. J.; Mutak, A.; Modecki, K.; Goldberg, R. E.; Orben, A. | Development and validation of a comprehensive digital parenting scale | Computers in Human Behavior Reports | 10.1016/j.chbr.2026.101098 |
+published | 2024 | Gunschera, L. J.; Dutton, K.; Fox, E.; Temple-McCune, A.; Murphy, R. | Overburdening associations: The dependency of psychopathy-related acquisitional learning deficits on processing load | Personality and Individual Differences | 10.1016/j.paid.2024.112705 |
+published | 2024 | Van der Cruyssen, I.; Ben-Shakhar, G.; Pertzov, Y.; Guy, N.; Cabooter, Q.; Gunschera, L. J.; Verschuere, B. | The validation of online webcam-based eye-tracking: The replication of the cascade effect, the novelty preference, and the visual world paradigm | Behavior Research Methods | 10.3758/s13428-023-02221-2 |
+published | 2023 | Gunschera, L. J.; Verschuere, B.; Murphy, R.; Temple-McCune, A.; Dutton, K.; Fox, E. | No impaired integration in psychopathy: Evidence from an illusory conjunction paradigm | Personality Disorders: Theory, Research, and Treatment | 10.1037/per0000619 |
+published | 2022 | Gunschera, L. J.; Brazil, I. A.; Driessen, J. M. A. | Social economic decision-making and psychopathy: A systematic review and meta-analysis | Neuroscience & Biobehavioral Reviews | 10.1016/j.neubiorev.2022.104966 |
+
+under review | | Gunschera, L. J.; Adjallah, J.; Fokas, I.; Mackie, G.; Hickman Dunne, J.; Roe, A.; Davies, J.; Nord, C. L.**; Panayiotou, M.**; Orben, A.** | Aligning how we measure and support social media addiction with young people's lived experience | PsyArXiv | 10.31234/osf.io/wahf5_v1 |
+under review | | Gunschera, L. J.*; Orben, A.*; Fokas, I.*; …; Purba, A. K.**; Orben, A.** | Addressing the absence of robust causal evidence linking social media to population-level adolescent mental health declines | | |
+under review | | Gunschera, L. J.; Mehrhof, S. Z.; Veith, C.; Ong, E.; Davidson, B. C.; Vuorre, M.; Nord, C. L.**; Orben, A.** | Does social media use show established neurocognitive signatures of addiction? | PsyArXiv | 10.31234/osf.io/2eqs8_v1 |
+under review | | Panayiotou, M.; Banwell, E.; Black, L.; Hickman Dunne, J.; Davies, J.; Hamilton, S.; Davidson, B.; Gunschera, L. J. | From motivation to experience: Rethinking the complex psychological processes of adolescent social media engagement | | |
+under review | | Davidson, B. C.; Turner, G.; Gunschera, L. J.; Orben, A. | Social media reward sensitivity and depressive symptoms over time | PsyArXiv | 10.31234/osf.io/8e3ar_v1 |
+under review | | Davidson, B. C.; Turner, G.; Palminteri, S.; Tomova, L.; Eichstaedt, J. C.; Salecha, A.; Subrahmanya, S.; Orben, A.**; Gunschera, L. J.** | Prolonged social isolation is associated with increased behavioural sensitivity to ‘likes’ on social media | PsyArXiv | 10.31234/osf.io/65tdz_v1 |
+under review | | Turner, G.; Valdez, C.; Gunschera, L. J.*; Anderson, I.*; Brufal, Z.*; Dillmann, S.*; Fassi, L.*; Monarca, I.*; Ramirez, O. P.*; Tentori, M.; Orben, A. | Relating smartphone ‘app-journeys’ to mental health: A novel network analysis approach | PsyArXiv | 10.31234/osf.io/uytfr_v1 |
+under review | | Gunschera, L. J.; Achterberg, M.; Speyer, L. G.; Wise, T.; Orben, A. | Towards identifying cognitive phenotypes of risk and resilience for social media and mental health | PsyArXiv | 10.31234/osf.io/bgqyj_v1 |
+under review | | de Wit, S.; Bieleke, M.; Fletcher, P. C.; Horstmann, A.; Schueler, J.; Brinkhof, L. P.; Gunschera, L. J.; Murre, J. M. J. | How long does it take to form a habit? A multi-centre replication | Peer Community in Registered Reports | https://rr.peercommunityin.org/PCIRegisteredReports/articles/rec?id=210 | Stage 1 in-principle acceptance
+
+preprint | 2026 | van Timmeren, T.; Dano, J.; Moustaka, M. J.; Gunschera, L. J.; de Wit, S. | Slips of action in everyday life: Capturing habitual smartphone checking with a decoy app paradigm | PsyArXiv | 10.31234/osf.io/nuzg4_v2 |

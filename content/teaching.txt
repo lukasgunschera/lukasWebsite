@@ -1,0 +1,27 @@
+# TEACHING AND SUPERVISION. Each "## " line starts a section. One entry per line:
+#   Date | Title | Details
+
+## Teaching and lectures
+From 2024 | Open Science: A beginner's guide | Cambridge Access to Mental Health & Psychology Programme · Online
+From 2024 | Robust Statistics, Improving Scientific Practices | University of Cambridge, MRC Cognition and Brain Sciences Unit · Cambridge, UK
+From 2024 | Computational Reproducibility, Improving Scientific Practices | University of Cambridge, MRC Cognition and Brain Sciences Unit · Cambridge, UK
+2024 | PBS3 Social and Developmental Psychology | University of Cambridge, Girton College · Cambridge, UK
+2022 | Meta-Analysis | University of Amsterdam · Amsterdam, The Netherlands
+2022 | Scientific Writing and Presenting | University of Amsterdam · Amsterdam, The Netherlands
+2021 | Addiction and Compulsive Disorders | University of Amsterdam · Amsterdam, The Netherlands
+
+## Supervision: research assistants and interns
+From 2026 | Gerald Akuarista | University of Cambridge
+2025 – 2026 | Jamil Adjallah | University of Cambridge
+2024 – 2026 | Ioanna Fokas | University of Cambridge
+2024 – 2026 | Brandon Davidson | University of Cambridge
+2022 | Emily Poort | University of Amsterdam
+2022 | Gustaw Opielka | University of Amsterdam
+
+## Supervision: graduate students
+2025 – 2026 | Clelia Veith | Technical University of Munich
+
+## Supervision: undergraduate students
+2025 – 2026 | Ruxandra Ursache | University of Cambridge
+2025 – 2026 | James D'Silva | University of Cambridge
+2024 – 2025 | Ethan Ong | University of Cambridge

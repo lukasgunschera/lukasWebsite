@@ -1,0 +1,40 @@
+# SCIENCE COMMUNICATION AND SERVICE. Each "## " line starts a section. One entry per line:
+#   Date | Title | Details | Label (optional) | Link (optional)
+# A section whose lines contain only a name (no | bars) is shown as a simple list of names.
+
+## Science communication
+2024 – 2026 | Co-Founder | Notes on Science · Cambridge, UK
+2024 – 2026 | Supervisor & Lecturer | Cambridge Access to Mental Health & Psychology Programme · Cambridge, UK
+2024 | Organising Member | Pint of Science · Cambridge, UK
+Mar 2024 | Co-Organiser | Open Science Day, MRC Cognition and Brain Sciences Unit · Cambridge, UK
+
+## Podcasts
+ | Social media designed to be addictive, jury finds | The Naked Scientists | | Listen: https://www.thenakedscientists.com/articles/interviews/social-media-designed-be-addictive-jury-finds
+ | Social media and mental health: The cognitive turn | Cognitations, with Georgia Turner | | Watch: https://www.youtube.com/watch?v=u_3tvlv4zi4
+
+## Academic service and leadership
+From 2025 | Chair, Open Science Committee | MRC Cognition and Brain Sciences Unit
+From 2022 | Member, Open Science Committee | MRC Cognition and Brain Sciences Unit
+2023 – 2025 | Editor | Cambridge Journal of Science and Policy
+2021 – 2022 | Member | Student Initiative for Open Science
+2020 – 2022 | Student Delegate | University of Amsterdam
+
+## Journal reviewer
+Nature
+Nature Human Behaviour
+Comprehensive Psychiatry
+Journal of Behavioral Addictions
+Peer Community in Registered Reports
+Royal Society Open Science
+Motivation and Emotion
+PLOS ONE
+
+## Society membership
+From 2026 | International Society for the Study of Behavioural Addictions
+From 2025 | Society for the Study of Addiction
+From 2025 | British Psychological Society
+From 2024 | British Association for Psychopharmacology
+From 2023 | Cambridge Philosophical Society
+2023 – 2024 | Society for the Improvement of Psychological Science
+2022 – 2024 | Psychonomic Society
+2022 – 2024 | Society for Applied Research in Memory & Cognition

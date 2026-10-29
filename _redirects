@@ -1,0 +1,23 @@
+# Clean page addresses (/talks serves talks.html, and so on)
+/publications   /publications.html   200
+/talks          /talks.html          200
+/policy         /policy.html         200
+/teaching       /teaching.html       200
+/engagement     /engagement.html     200
+/cv             /cv.html             200
+
+# Old addresses from the previous Hugo site
+/home              /               301!
+/home/*            /               301!
+/research          /publications   301
+/research/*        /publications   301
+/publication       /publications   301
+/publication/*     /publications   301
+/publication-type/* /publications  301
+/talk/*            /talks          301
+/event/*           /talks          301
+/report/*          /policy         301
+/author/*          /               301
+/blank_type/*      /               301
+/tag/*             /               301
+/category/*        /               301

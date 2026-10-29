@@ -1,0 +1,40 @@
+# CV PAGE. Each "## " line starts a section. One entry per line:
+#   Date | Title | Details
+# The full PDF lives at media/cv.pdf. Replace that file to update the download.
+
+## Education
+From Oct 2023 | PhD, Medical Science | University of Cambridge – MRC Cognition and Brain Sciences Unit · Cambridge, UK
+Sep 2020 – Sep 2022 | Master of Science, Psychological Research (cum laude) | University of Amsterdam · Amsterdam, The Netherlands
+Sep 2017 – Sep 2020 | Bachelor of Science (Honours), Psychology (cum laude) | Radboud University · Nijmegen, The Netherlands
+
+## Previous positions
+Oct 2022 – Oct 2023 | Postgraduate Research Assistant (full time) | University of Cambridge – MRC Cognition and Brain Sciences Unit. Research spanning computational, longitudinal, psychopharmacological, and experimental approaches to probe the mechanisms of problematic social media use. Supervision: Amy Orben.
+Nov 2021 – Nov 2022 | Research Assistant (part time) | University of Oxford. Research on selective attention and learning deficits in psychopathic individuals and potential downstream consequences. Supervision: Elaine Fox & Robin Murphy.
+Sep 2021 – Oct 2022 | Teaching Assistant (part time) | University of Amsterdam
+Feb 2021 – Dec 2022 | Research Assistant (part time) | University of Amsterdam. Worked in multiple research groups and was involved in all aspects of the research process. Notable contributions include co-leading a large longitudinal collaboration. Supervision: Bruno Verschuere & Sanne de Wit.
+
+## Visiting positions and placements
+Jun 2024 | Visiting PhD Student | University of Rotterdam · Rotterdam, The Netherlands
+Oct 2019 – Nov 2019 | Visiting Researcher | University of Oxford · Oxford, UK
+Jan 2018 – Sep 2020 | Honours Programme & Interdisciplinary Honours Programme | Radboud University · Nijmegen, The Netherlands
+
+## Awards and funding
+Oct 2023 – Sep 2027 | UKRI Medical Research Council Studentship (£180,000)
+Sep 2026 | Cambridge Philosophical Society, Travel Grant (£280)
+Aug 2026 | Charles Slater Fund (£1,200)
+Jul 2026 | Guarantors of Brain, Travel Grant (£800)
+Apr 2026 | Cambridge Philosophical Society, Travel Grant (£500)
+May 2025 | Cambridge Philosophical Society, Travel Grant (£500)
+May 2025 | Wolfson College, Travel & Research Award (£400)
+May 2025 | British Association for Psychopharmacology, Bursary (£400)
+May 2024 | Wolfson College, Travel & Research Award (£400)
+Mar 2023 | American Psychological Association, Editor's Choice Award
+Mar 2023 | Thesis Award, Netherlands Institute of Psychologists (£400)
+
+## Skills
+Programming | R, Stan, Git, jsPsych, SQL, MPLUS, Python, Docker, Inquisit, Lotus
+Data acquisition | Electroencephalography, electrodermal, electrocardiography, respiration, eye-tracking, ecological momentary assessment
+Formal analyses | Bayesian inference, computational modelling, multilevel modelling, longitudinal modelling, structural equation modelling, meta-analysis
+
+## Open science
+ | Data and code from all experiments (except where prohibited for sensitivity or legal reasons) are available on OSF, Zenodo and GitHub. Most studies are preregistered on the OSF or Prospero. | | | OSF: https://osf.io/user/4ysqz | Zenodo: https://zenodo.org | GitHub: https://github.com/lukasgunschera

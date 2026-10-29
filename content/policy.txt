@@ -1,0 +1,13 @@
+# EVIDENCE FOR POLICY. Each "## " line starts a section. One entry per line:
+#   Date | Title | Details | Label (optional) | Link | Another link ...
+# Links can have a name:  GOV.UK: https://...    or just paste the address.
+
+## Written evidence
+2025 | Neuroscience and digital childhoods inquiry | Davidson, B.C., Fassi, L., Fokas, I., Gunschera, L.J., Orben, A., Turner, G. · UK Department for Science, Innovation and Technology | | Written evidence: https://committees.parliament.uk/writtenevidence/165731/default/
+2025 | Feasibility Study of Methods and Data to Understand the Impact of Smartphones and Social Media on Children and Young People | Orben, A., Purba, A.K., Fokas, I., Gunschera, L.J. et al. · UK Department for Science, Innovation and Technology | | GOV.UK: https://www.gov.uk/government/publications/understand-the-impact-of-smartphones-and-social-media-on-children-and-young-people | Report: media/report/2025_dsit.pdf
+2024 | Addressing Gaps in Digital Media Research: Pathways for Future Science and Policy | Gunschera, L.J., Orben, A., Turner, G. · European Joint Research Commission Report | | JRC: https://publications.jrc.ec.europa.eu/repository/handle/JRC143343
+2023 | Written evidence for Initiative to protect youth mental health, safety, and privacy online | Orben, A., Gunschera, L.J., Turner, G. · National Telecommunications and Information Administration (NTIA-2023-0008-0001) | | Submission: media/report/2023_ntia.pdf
+
+## Oral evidence
+Mar 2025 | Addressing gaps in digital media research: Pathways for future science and policy | European Commission · Online | | Slides: media/event/2025_ecjrc_presentation.pdf
+Nov 2024 | Roundtable on Call for Evidence on Researchers' access to information from regulated online services | Ofcom · London, UK | |
