@@ -9,11 +9,6 @@
 # To show a paper on the home page under "Selected publications and preprints", add a line:
 #   feature | its DOI or its exact title
 # Featured papers appear in the order of these lines. With no feature lines, the home page shows the latest three.
-#
-# To add Preregistration, Data and Code links to a paper, put a line under it:
-#   links | its DOI or exact title | Preregistration: https://... | Data: https://... | Code: https://...
-# Links always show in the order Preregistration, Data, Code. Add a note in brackets if a paper has two,
-# e.g. Preregistration (Exp. 1): ...  Use "Data (restricted)" for data that is only available on application.
 
 orcid | 0000-0002-8241-0833
 
@@ -26,7 +21,6 @@ hide | Neuroscience and digital childhoods inquiry
 hide | 10.2760/7811534
 
 published | 2026 | Turner, G.; Gunschera, L. J.; Subrahmanya, S.; Salecha, A.; Eichstaedt, J. C.; Palminteri, S.; Orben, A. | A computational model of reward learning and habits on social media | Nature Communications | 10.1038/s41467-026-73547-6 |
-links | 10.1038/s41467-026-73547-6 | Preregistration: https://osf.io/jybhx | Data: https://doi.org/10.5281/zenodo.19608893 | Code: https://doi.org/10.5281/zenodo.19608808
 published | 2026 | Ferguson, A. M.; Richards, M.; Gunschera, L. J.; Mutak, A.; Modecki, K.; Goldberg, R. E.; Orben, A. | Development and validation of a comprehensive digital parenting scale | Computers in Human Behavior Reports | 10.1016/j.chbr.2026.101098 |
 published | 2024 | Gunschera, L. J.; Dutton, K.; Fox, E.; Temple-McCune, A.; Murphy, R. | Overburdening associations: The dependency of psychopathy-related acquisitional learning deficits on processing load | Personality and Individual Differences | 10.1016/j.paid.2024.112705 |
 published | 2024 | Van der Cruyssen, I.; Ben-Shakhar, G.; Pertzov, Y.; Guy, N.; Cabooter, Q.; Gunschera, L. J.; Verschuere, B. | The validation of online webcam-based eye-tracking: The replication of the cascade effect, the novelty preference, and the visual world paradigm | Behavior Research Methods | 10.3758/s13428-023-02221-2 |
@@ -34,19 +28,12 @@ published | 2023 | Gunschera, L. J.; Verschuere, B.; Murphy, R.; Temple-McCune, 
 published | 2022 | Gunschera, L. J.; Brazil, I. A.; Driessen, J. M. A. | Social economic decision-making and psychopathy: A systematic review and meta-analysis | Neuroscience & Biobehavioral Reviews | 10.1016/j.neubiorev.2022.104966 |
 
 under review | | Gunschera, L. J.; Adjallah, J.; Fokas, I.; Mackie, G.; Hickman Dunne, J.; Roe, A.; Davies, J.; Nord, C. L.**; Panayiotou, M.**; Orben, A.** | Aligning how we measure and support social media addiction with young people's lived experience | PsyArXiv | 10.31234/osf.io/wahf5_v1 |
-links | 10.31234/osf.io/wahf5_v1 | Data: https://doi.org/10.5281/zenodo.22661547
 under review | | Gunschera, L. J.*; Orben, A.*,**; Fokas, I.*; Davidson, B. C.; Richards, M.; Yap, Z. Y.; Davis, O. S. P.; Ellis, D. A.; Goodyear, V.; Haworth, C. M. A.; Hollis, C.; Joinson, A.; Katikireddi, S. V.; Livingstone, S.; Panayiotou, M.; Townsend, E.; Purba, A. K.** | Addressing the absence of robust causal evidence linking social media to population-level adolescent mental health declines | | |
 under review | | Gunschera, L. J.; Mehrhof, S. Z.; Veith, C.; Ong, E.; Davidson, B. C.; Vuorre, M.; Nord, C. L.**; Orben, A.** | Does social media use show established neurocognitive signatures of addiction? | PsyArXiv | 10.31234/osf.io/2eqs8_v1 |
-links | 10.31234/osf.io/2eqs8_v1 | Preregistration (Exp. 1): https://osf.io/uwz5b | Preregistration (Exp. 2): https://osf.io/mnk3b | Code: https://github.com/lukasgunschera/2026_sma_addiction_markers
 under review | | Panayiotou, M.; Banwell, E.; Black, L.; Hickman Dunne, J.; Davies, J.; Hamilton, S.; Davidson, B.; Gunschera, L. J.; Andersen, A. I. O.; Finserås, T. R. | From motivation to experience: Blurred boundaries in the measurement of adolescent social media engagement | | |
 under review | | Davidson, B. C.; Turner, G.; Gunschera, L. J.; Orben, A. | Social media reward sensitivity and depressive symptoms over time | PsyArXiv | 10.31234/osf.io/8e3ar_v1 |
-links | 10.31234/osf.io/8e3ar_v1 | Preregistration: https://osf.io/bdvmw | Data (restricted): https://www.bristol.ac.uk/alspac/researchers/access/
 under review | | Davidson, B. C.; Turner, G.; Palminteri, S.; Tomova, L.; Eichstaedt, J. C.; Salecha, A.; Subrahmanya, S.; Orben, A.**; Gunschera, L. J.** | Prolonged social isolation is associated with increased behavioural sensitivity to ‘likes’ on social media | PsyArXiv | 10.31234/osf.io/65tdz_v1 |
-links | 10.31234/osf.io/65tdz_v1 | Preregistration: https://osf.io/cw8pv | Data: https://osf.io/2wdfq
 under review | | Turner, G.; Valdez, C.; Gunschera, L. J.*; Anderson, I.*; Brufal, Z.*; Dillmann, S.*; Fassi, L.*; Monarca, I.*; Ramirez, O. P.*; Tentori, M.; Orben, A. | Relating smartphone ‘app-journeys’ to mental health: A novel network analysis approach | PsyArXiv | 10.31234/osf.io/uytfr_v1 |
-links | 10.31234/osf.io/uytfr_v1 | Preregistration: https://osf.io/m4szc/files/mk4p8
 under review | | Gunschera, L. J.; Achterberg, M.; Speyer, L. G.; Wise, T.; Orben, A. | Towards identifying cognitive phenotypes of risk and resilience for social media and mental health | PsyArXiv | 10.31234/osf.io/bgqyj_v1 |
-links | 10.31234/osf.io/bgqyj_v1 | Preregistration: https://osf.io/jat54 | Data (restricted): https://www.developmentmatters.nl/data-access/ | Code: https://github.com/lukasgunschera/2025_cognitivephenotype
 under review | | de Wit, S.; Bieleke, M.; Fletcher, P. C.; Horstmann, A.; Schueler, J.; Brinkhof, L. P.; Gunschera, L. J.; Murre, J. M. J. | How long does it take to form a habit? A multi-centre replication | Peer Community in Registered Reports | https://rr.peercommunityin.org/PCIRegisteredReports/articles/rec?id=210 | Stage 1 in-principle acceptance
 under review | | van Timmeren, T.; Dano, J.; Moustaka, M. J.; Gunschera, L. J.; de Wit, S. | Slips of action in everyday life: Capturing habitual smartphone checking with a decoy app paradigm | PsyArXiv | 10.31234/osf.io/nuzg4_v2 |
-links | 10.31234/osf.io/nuzg4_v2 | Preregistration: https://osf.io/vtsjz
