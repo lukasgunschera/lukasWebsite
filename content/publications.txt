@@ -43,3 +43,7 @@ under review | | Turner, G.; Valdez, C.; Gunschera, L. J.*; Anderson, I.*; Brufa
 under review | | Gunschera, L. J.; Achterberg, M.; Speyer, L. G.; Wise, T.; Orben, A. | Towards identifying cognitive phenotypes of risk and resilience for social media and mental health | PsyArXiv | 10.31234/osf.io/bgqyj_v1 |
 under review | | de Wit, S.; Bieleke, M.; Fletcher, P. C.; Horstmann, A.; Schueler, J.; Brinkhof, L. P.; Gunschera, L. J.; Murre, J. M. J. | How long does it take to form a habit? A multi-centre replication | Peer Community in Registered Reports | https://rr.peercommunityin.org/PCIRegisteredReports/articles/rec?id=210 | Stage 1 in-principle acceptance
 under review | | van Timmeren, T.; Dano, J.; Moustaka, M. J.; Gunschera, L. J.; de Wit, S. | Slips of action in everyday life: Capturing habitual smartphone checking with a decoy app paradigm | PsyArXiv | 10.31234/osf.io/nuzg4_v2 |
+
+# OPEN SCIENCE 
+
+links | 10.31234/osf.io/wahf5_v1 | Preregistration Experiment 1: https://osf.io/uwz5b/overview | Preregistration Experiment 2: https://osf.io/mnk3b/overview | Code: https://github.com/lukasgunschera/2026_sma_addiction_markers
