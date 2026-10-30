@@ -261,10 +261,7 @@ var R = {};
 R.home = function(){
   var secs = parse(texts.about), intro = secs[0] && !secs[0].title ? secs[0] : {raw: []};
   var paras = intro.raw.join("\n").split(/\n\s*\n/).map(function(p){ return p.replace(/\s+/g, " ").trim(); }).filter(Boolean);
-  /* First paragraph sits beside the photo; any further paragraphs run full width below it */
-  var html = function(list){ return list.map(function(p){ return "<p>" + esc(p) + "</p>"; }).join(""); };
-  if ($("bio-lead")) { $("bio-lead").innerHTML = html(paras.slice(0, 1)); $("bio-rest").innerHTML = html(paras.slice(1)); }
-  else if ($("bio")) $("bio").innerHTML = html(paras);
+  $("bio").innerHTML = paras.map(function(p){ return "<p>" + esc(p) + "</p>"; }).join("");
   var interests = secs.filter(function(s){ return /interest/i.test(s.title); })[0];
   $("interests").innerHTML = interests ? interests.rows.map(function(r){ return "<li>" + esc(r[0]) + "</li>"; }).join("") : "";
 
