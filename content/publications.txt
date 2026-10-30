@@ -47,3 +47,11 @@ under review | | van Timmeren, T.; Dano, J.; Moustaka, M. J.; Gunschera, L. J.; 
 # OPEN SCIENCE 
 
 links | 10.31234/osf.io/wahf5_v1 | Preregistration Experiment 1: https://osf.io/uwz5b/overview | Preregistration Experiment 2: https://osf.io/mnk3b/overview | Code: https://github.com/lukasgunschera/2026_sma_addiction_markers
+links | 10.31234/osf.io/bgqyj_v1 | Preregistration: https://osf.io/jat54/overview | Code: https://zenodo.org/records/18845949 
+links | 10.31234/osf.io/nuzg4_v2 | Preregistration: https://osf.io/vtsjz/overview
+links | 10.31234/osf.io/8e3ar_v1 | Preregistration: https://osf.io/bdvmw/overview
+links | 10.31234/osf.io/65tdz_v1 | Preregistration: https://osf.io/cw8pv/overview
+links | 10.31234/osf.io/uytfr_v1 | Preregistration: https://osf.io/wjqnz/overview
+links | 10.1037/per0000619 | Preregistration: https://osf.io/6mhe9/overview
+links | How long does it take to form a habit? A multi-centre replication | Preregistration: https://osf.io/bj9r2/overview
+links | 10.3758/s13428-023-02221-2 | Preregistration: https://osf.io/ykd25/overview
