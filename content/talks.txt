@@ -3,18 +3,19 @@
 # Label is shown as a small tag, e.g. Poster, Keynote, Symposium, Workshop.
 # Link examples:  media/event/my_poster.pdf  (shown as PDF)   or   Slides: media/event/my_slides.pdf  (shown as Slides)
 # Talks with a future date are marked "Upcoming" automatically.
-Aug 2026 | Problematic social media use in ADHD: A comparison on and off dopaminergic medication | International Conference on Behavioural Addictions · Istanbul, Turkey | |
-Jul 2026 | Dopamine hits? Using methylphenidate to probe the mechanisms of problematic social media use | British Association for Psychopharmacology Summer Meeting · Birmingham, UK | |
-Jul 2026 | Does social media use show established neurocognitive signatures of addiction? | Solitude lab seminar series · Online | |
-Jul 2026 | Rethinking social media addiction: The importance of mechanisms of diagnosis and treatment | Royal College of Psychiatrists: Faculty of Child and Adolescent Psychiatry annual conference · Manchester, UK | |
+Oct 2026 | Social media addiction? Testing the addiction framework | Max Planck Institute for Human Development · Berlin, Germany | Talk |
+Aug 2026 | Problematic social media use in ADHD: A comparison on and off dopaminergic medication | International Conference on Behavioural Addictions · Istanbul, Turkey | Talk |
+Jul 2026 | Dopamine hits? Using methylphenidate to probe the mechanisms of problematic social media use | British Association for Psychopharmacology Summer Meeting · Birmingham, UK | Talk |
+Jul 2026 | Does social media use show established neurocognitive signatures of addiction? | Solitude lab seminar series · Online | Talk |
+Jul 2026 | Rethinking social media addiction: The importance of mechanisms of diagnosis and treatment | Royal College of Psychiatrists: Faculty of Child and Adolescent Psychiatry annual conference · Manchester, UK | Talk |
 Sep 2025 | Adolescents in the wild web: bringing order to chaos through research | Royal College of Psychiatrists: Faculty of Child and Adolescent Psychiatry Annual Conference · Manchester, UK | Symposium |
 Jul 2025 | Do individual differences in cognitive processes link social media use and mental health? | Computational Psychiatry Conference | Poster | media/event/2025_cp_poster.pdf
 Jun 2025 | Assessing social media use using a cognitive-behavioural marker of addiction | British Association for Psychopharmacology Conference | Poster | media/event/2025_bap_poster.pdf
 Jun 2025 | Assessing social media use using a cognitive-behavioural marker of addiction | Max Planck Institute for Human Development | Poster | media/event/2025_bap_poster.pdf
-Mar 2025 | Addressing gaps in digital media research: Pathways for future science and policy | European Commission · Online | | Slides: media/event/2025_ecjrc_presentation.pdf
-Sep 2024 | Cognitive phenotypes of risk and resilience for the relationship between social media and mental health | Gillan Lab, Trinity College Dublin · Online | |
-Sep 2024 | Cognitive processes linking social media and mental health | CERES, Jacobs Foundation · Newport Beach, USA | |
-Jun 2024 | Cognitive phenotypes of social media risk and resilience | SO-REBEL and SYNC research groups, University of Rotterdam · Rotterdam, The Netherlands | |
+Mar 2025 | Addressing gaps in digital media research: Pathways for future science and policy | European Commission · Online | Talk | Slides: media/event/2025_ecjrc_presentation.pdf
+Sep 2024 | Cognitive phenotypes of risk and resilience for the relationship between social media and mental health | Gillan Lab, Trinity College Dublin · Online | Talk |
+Sep 2024 | Cognitive processes linking social media and mental health | CERES, Jacobs Foundation · Newport Beach, USA | Talk |
+Jun 2024 | Cognitive phenotypes of social media risk and resilience | SO-REBEL and SYNC research groups, University of Rotterdam · Rotterdam, The Netherlands | Talk |
 Jun 2023 | A shared responsibility: Improving causal literacy across the scientific pipeline | Society for the Improvement of Psychological Science · Padova, Italy | Workshop |
-Mar 2023 | No impaired integration in psychopathy | Personality disorder and addiction conference · Utrecht, The Netherlands | |
+Mar 2023 | No impaired integration in psychopathy | Personality disorder and addiction conference · Utrecht, The Netherlands | Keynote |
 Feb 2023 | Do psychopaths suffer from impaired information integration? | Netherlands Institute of Psychologists · Online | Keynote |
