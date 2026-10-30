@@ -261,7 +261,7 @@ function pubHTML(w){
       (w.preprint ? '<a href="' + esc(w.preprint) + '">Preprint</a>' : "") +
       (w.extra || []).map(function(x){ return '<a href="' + esc(x.url) + '">' + esc(x.label) + "</a>"; }).join("") +
       '<button type="button" data-cite="' + i + '" aria-expanded="false" aria-controls="cite-' + i + '">Cite</button>' +
-      (w.cites ? '<span class="cited">Cited by ' + w.cites + "</span>" : "") + "</p>" +
+      "</p>" +                                                    /* citation counts are not shown (OpenAlex counts differ from Google Scholar) */
     '<div class="cite" id="cite-' + i + '" hidden>' +
       '<div class="row"><div class="row-head"><span>APA</span><button type="button" data-copy="apa-' + i + '">Copy</button></div><p id="apa-' + i + '">' + esc(apaText(w)) + "</p></div>" +
       '<div class="row"><div class="row-head"><span>BibTeX</span><button type="button" data-copy="bib-' + i + '">Copy</button></div><pre id="bib-' + i + '">' + esc(bibText(w)) + "</pre></div>" +
