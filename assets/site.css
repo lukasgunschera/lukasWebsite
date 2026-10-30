@@ -144,10 +144,17 @@ img{max-width:100%;display:block}
 .empty{padding:20px 0;color:var(--muted)}
 
 /* ———————————— Home ———————————— */
-.intro{display:grid;grid-template-columns:168px minmax(0,1fr);gap:36px;align-items:start;margin-bottom:56px}
-.portrait{width:168px;aspect-ratio:4/5;object-fit:cover;object-position:50% 25%;border-radius:4px;background:var(--surface)}
-.bio p{font-size:18px;line-height:1.62}
-.bio p+p{margin-top:14px;color:var(--muted);font-size:16.5px}
+/* Photo beside the first paragraph; the rest of the biography and the interests run full width below it */
+.intro{display:grid;grid-template-columns:168px minmax(0,1fr);grid-template-areas:"photo lead" "rest rest" "chips chips";column-gap:36px;align-items:center;margin-bottom:56px}
+.portrait{grid-area:photo;width:168px;aspect-ratio:4/5;object-fit:cover;object-position:50% 25%;border-radius:4px;background:var(--surface)}
+.bio-lead{grid-area:lead;min-width:0}
+.bio-lead p{font-size:18px;line-height:1.62}
+.bio-lead p+p{margin-top:14px}
+.bio-rest{grid-area:rest;min-width:0}
+.bio-rest:not(:empty){margin-top:24px}
+.bio-rest p{color:var(--muted);font-size:16.5px;line-height:1.62}
+.bio-rest p+p{margin-top:14px}
+.intro .chips{grid-area:chips;padding-top:18px}
 .home-list>li{display:grid;grid-template-columns:72px minmax(0,1fr);gap:20px;padding:13px 0;border-bottom:1px solid var(--line)}
 .home-list .e-title a:hover{color:var(--accent)}
 
@@ -170,9 +177,10 @@ img{max-width:100%;display:block}
   .foot-links a:hover{color:var(--accent)}
 }
 @media (max-width: 600px){
-  .intro{grid-template-columns:minmax(0,1fr);gap:22px}
-  .portrait{width:132px}
-  .bio p{font-size:17px}
+  .intro{grid-template-columns:minmax(0,1fr);grid-template-areas:"photo" "lead" "rest" "chips"}
+  .portrait{width:132px;margin-bottom:22px}
+  .bio-lead p{font-size:17px}
+  .bio-rest:not(:empty){margin-top:14px}
   .entries>li,.group,.group .entries>li,.home-list>li{grid-template-columns:minmax(0,1fr);gap:2px}
   .group{gap:0}
   .group-label{position:static;padding-top:14px}
