@@ -87,13 +87,24 @@ function href(w){ return w.doi ? "https://doi.org/" + w.doi : resolve(w.url); }
 function strip(a){ return a.replace(/[*†][*†,]*$/, ""); }   /* author markers: * equal contribution, ** shared senior, *,** both */
 
 function buildPubs(text){
-  P.orcid = ""; P.hidden = []; P.featured = [];
+  P.orcid = ""; P.hidden = []; P.featured = []; P.links = [];
   var list = [];
   allRows(text).forEach(function(r, i){
     var k = (r[0] || "").toLowerCase();
     if (k === "orcid") { P.orcid = r[1] || ""; return; }
     if (k === "hide") { P.hidden.push(isDoi(r[1]) ? ndoi(r[1]) : tkey(r[1])); return; }
     if (k === "feature" || k === "featured") { if (r[1]) P.featured.push(isDoi(r[1]) ? ndoi(r[1]) : tkey(r[1])); return; }
+    if (k === "links") {                      /* links | DOI or exact title | Preregistration: URL | Data: URL | Code: URL */
+      var items = r.slice(2).filter(Boolean).filter(function(f){         /* each item must be "Label: https://..." */
+        var ok = /^[^:]{1,40}?:\s+https?:\/\/\S+$/i.test(f) || /^https?:\/\/\S+$/i.test(f);
+        if (!ok && window.console) console.warn("publications.txt: ignored link \"" + f + "\" (needs a full https:// address)");
+        return ok;
+      }).map(linkOf);
+      if (r[1] && items.length) P.links.push({key: isDoi(r[1]) ? ndoi(r[1]) : tkey(r[1]), items: items});
+      return;
+    }
+    /* Only lines that start with a known status are papers; anything else (e.g. a typo) is ignored */
+    if (STATUSES.indexOf(k) < 0) { if (window.console) console.warn("publications.txt: ignored line starting with \"" + r[0] + "\""); return; }
     var loc = r[5] || "";
     list.push({status: k || "published", year: r[1] || "", authors: (r[2] || "").split(";").map(function(a){ return a.trim(); }).filter(Boolean),
       title: r[3] || "", venue: r[4] || "", doi: isDoi(loc) ? loc.replace(/^https?:\/\/(dx\.)?doi\.org\//i, "") : "",
@@ -101,8 +112,19 @@ function buildPubs(text){
   });
   if (P.oa) P.added = merge(list, P.oa.results);
   list = list.filter(function(w){ return !matches(w, P.hidden); });    /* "hide" applies to every entry */
+  list.forEach(function(w){                                              /* optional Preregistration, Data, Code links */
+    w.extra = [];
+    P.links.forEach(function(l){ if (matches(w, [l.key])) w.extra = w.extra.concat(l.items); });
+    w.extra.sort(function(a, b){ return linkRank(a.label) - linkRank(b.label); });
+  });
   P.list = list;
   return list;
+}
+var STATUSES = ["published", "preprint", "under review", ""];   /* an empty status counts as published, as before */
+/* Research-output links always appear in this order; a paper can have any of them, or none */
+function linkRank(label){
+  var l = String(label).toLowerCase();
+  if (/^pre-?reg/.test(l)) return 1; if (/^data/.test(l)) return 2; if (/^code/.test(l)) return 3; if (/^materials/.test(l)) return 4; return 5;
 }
 function matches(w, keys){ return keys.some(function(k){ return (w.doi && ndoi(w.doi) === k) || tkey(w.title) === k; }); }
 /* Papers chosen with "feature | DOI or title" lines, in the order they are listed */
@@ -237,6 +259,7 @@ function pubHTML(w){
     '<p class="actions">' + (h ? '<a href="' + esc(h) + '">' + (w.doi ? "DOI" : "Link") + "</a>" : "") +
       (isPub(w) && w.oa && w.oa !== h && !/doi\.org\//i.test(w.oa) ? '<a href="' + esc(w.oa) + '">Free PDF</a>' : "") +
       (w.preprint ? '<a href="' + esc(w.preprint) + '">Preprint</a>' : "") +
+      (w.extra || []).map(function(x){ return '<a href="' + esc(x.url) + '">' + esc(x.label) + "</a>"; }).join("") +
       '<button type="button" data-cite="' + i + '" aria-expanded="false" aria-controls="cite-' + i + '">Cite</button>' +
       (w.cites ? '<span class="cited">Cited by ' + w.cites + "</span>" : "") + "</p>" +
     '<div class="cite" id="cite-' + i + '" hidden>' +

@@ -9,6 +9,12 @@
 # To show a paper on the home page under "Selected publications and preprints", add a line:
 #   feature | its DOI or its exact title
 # Featured papers appear in the order of these lines. With no feature lines, the home page shows the latest three.
+#
+# To add Preregistration, Data or Code links to a paper, add one line per paper with only the links that exist:
+#   links | its DOI or its exact title | Preregistration: https://... | Data: https://... | Code: https://...
+# Examples:   links | 10.1234/example | Data: https://osf.io/abcde | Code: https://github.com/user/repo
+#             links | 10.1234/example | Preregistration (Study 1): https://... | Preregistration (Study 2): https://...
+# Each link needs a full https:// address. They are shown in the order Preregistration, Data, Code.
 
 orcid | 0000-0002-8241-0833
 
