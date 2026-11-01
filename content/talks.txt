@@ -10,9 +10,9 @@ Jul 2026 | Critically examining social media addiction measurement: Integrating 
 Jul 2026 | Does social media use show established neurocognitive signatures of addiction? | Solitude lab seminar series · Online | Talk |
 Jul 2026 | Rethinking social media addiction: The importance of mechanisms of diagnosis and treatment | Royal College of Psychiatrists: Faculty of Child and Adolescent Psychiatry annual conference · Manchester, UK | Talk |
 Sep 2025 | Adolescents in the wild web: bringing order to chaos through research | Royal College of Psychiatrists: Faculty of Child and Adolescent Psychiatry Annual Conference · Manchester, UK | Symposium |
-Jul 2025 | Do individual differences in cognitive processes link social media use and mental health? | Computational Psychiatry Conference | Poster | media/event/2025_cp_poster.pdf
-Jun 2025 | Assessing social media use using a cognitive-behavioural marker of addiction | British Association for Psychopharmacology Conference | Poster | media/event/2025_bap_poster.pdf
-Jun 2025 | Assessing social media use using a cognitive-behavioural marker of addiction | Max Planck Institute for Human Development | Poster | media/event/2025_bap_poster.pdf
+Jul 2025 | Do individual differences in cognitive processes link social media use and mental health? | Computational Psychiatry Conference · Tuebingen, Germany | Poster | media/event/2025_cp_poster.pdf
+Jun 2025 | Assessing social media use using a cognitive-behavioural marker of addiction | British Association for Psychopharmacology Conference · Manchster, UK | Poster | media/event/2025_bap_poster.pdf
+Jun 2025 | Assessing social media use using a cognitive-behavioural marker of addiction | Max Planck Institute for Human Development · Berlin, Germany | Poster | media/event/2025_bap_poster.pdf
 Mar 2025 | Addressing gaps in digital media research: Pathways for future science and policy | European Commission · Online | Talk | Slides: media/event/2025_ecjrc_presentation.pdf
 Sep 2024 | Cognitive phenotypes of risk and resilience for the relationship between social media and mental health | Gillan Lab, Trinity College Dublin · Online | Talk |
 Sep 2024 | Cognitive processes linking social media and mental health | CERES, Jacobs Foundation · Newport Beach, USA | Talk |
