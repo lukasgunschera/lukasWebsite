@@ -257,7 +257,6 @@ function pubHTML(w){
     '<p class="authors">' + authorsHTML(w.authors) + "</p>" +
     (venue ? '<p class="venue">' + venue + "</p>" : "") +
     '<p class="actions">' + (h ? '<a href="' + esc(h) + '">' + (w.doi ? "DOI" : "Link") + "</a>" : "") +
-      (isPub(w) && w.oa && w.oa !== h && !/doi\.org\//i.test(w.oa) ? '<a href="' + esc(w.oa) + '">Free PDF</a>' : "") +
       (w.preprint ? '<a href="' + esc(w.preprint) + '">Preprint</a>' : "") +
       (w.extra || []).map(function(x){ return '<a href="' + esc(x.url) + '">' + esc(x.label) + "</a>"; }).join("") +
       '<button type="button" data-cite="' + i + '" aria-expanded="false" aria-controls="cite-' + i + '">Cite</button>' +
