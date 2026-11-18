@@ -4,6 +4,7 @@
 # Link examples:  media/event/my_poster.pdf  (shown as PDF)   or   Slides: media/event/my_slides.pdf  (shown as Slides)
 # Talks with a future date are marked "Upcoming" automatically.
 Mar 2027 | Are we all addicted? Habit formation and the brain beyond substances | European Congress of Radiology · Vienna, Austria | Conference Talk |
+Nov 2026 | Social media and adolescent mental health: scientific evidence, mechanisms and challenges for interpretation | UNICEF | Talk |
 Oct 2026 | Social media addiction? Testing the addiction framework | Max Planck Institute for Human Development · Berlin, Germany | Talk |
 Aug 2026 | Problematic social media use in ADHD: A comparison on and off dopaminergic medication | International Conference on Behavioural Addictions · Istanbul, Turkey | Conference Talk |
 Jul 2026 | Dopamine hits? Using methylphenidate to probe the mechanisms of problematic social media use | British Association for Psychopharmacology Summer Meeting · Birmingham, UK | Conference Talk & Poster |
